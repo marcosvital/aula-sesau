@@ -1,0 +1,1225 @@
+﻿_id,co_mun,no_mun,ano,variavel,saude_categoria,saude_subcategoria,valor
+1,2700102,Água Branca,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+2,2700102,Água Branca,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,14.562
+3,2700102,Água Branca,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,166.389
+4,2700102,Água Branca,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,48.967
+5,2700102,Água Branca,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,4.886
+6,2700102,Água Branca,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+7,2700102,Água Branca,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,14.854
+8,2700102,Água Branca,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,9.886
+9,2700102,Água Branca,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,4.935
+10,2700102,Água Branca,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,52.609
+11,2700102,Água Branca,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+12,2700102,Água Branca,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,299.874
+13,2700201,Anadia,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+14,2700201,Anadia,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,50.078
+15,2700201,Anadia,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,336.191
+16,2700201,Anadia,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,84.118
+17,2700201,Anadia,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+18,2700201,Anadia,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+19,2700201,Anadia,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,142.491
+20,2700201,Anadia,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,11.412
+21,2700201,Anadia,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,28.56
+22,2700201,Anadia,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,221.968
+23,2700201,Anadia,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,136.045
+24,2700201,Anadia,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,286.41
+25,2700300,Arapiraca,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,3.075
+26,2700300,Arapiraca,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1361.799
+27,2700300,Arapiraca,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,3909.493
+28,2700300,Arapiraca,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,2788.487
+29,2700300,Arapiraca,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,763.072
+30,2700300,Arapiraca,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,614.538
+31,2700300,Arapiraca,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,3529.711
+32,2700300,Arapiraca,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,61.361
+33,2700300,Arapiraca,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,33.289
+34,2700300,Arapiraca,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,761.411
+35,2700300,Arapiraca,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,176.398
+36,2700300,Arapiraca,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,694.942
+37,2700409,Atalaia,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+38,2700409,Atalaia,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,2.125
+39,2700409,Atalaia,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+40,2700409,Atalaia,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,37.872
+41,2700409,Atalaia,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,6.284
+42,2700409,Atalaia,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+43,2700409,Atalaia,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,31.79
+44,2700409,Atalaia,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,2.111
+45,2700409,Atalaia,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,18.931
+46,2700409,Atalaia,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1281.407
+47,2700409,Atalaia,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,25.126
+48,2700409,Atalaia,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,5376.884
+49,2700508,Barra de Santo Antônio,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+50,2700508,Barra de Santo Antônio,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,167.041
+51,2700508,Barra de Santo Antônio,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,63.524
+52,2700508,Barra de Santo Antônio,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+53,2700508,Barra de Santo Antônio,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,31.125
+54,2700508,Barra de Santo Antônio,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+55,2700508,Barra de Santo Antônio,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+56,2700508,Barra de Santo Antônio,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+57,2700508,Barra de Santo Antônio,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,12.345
+58,2700508,Barra de Santo Antônio,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,85.548
+59,2700508,Barra de Santo Antônio,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,6.111
+60,2700508,Barra de Santo Antônio,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,6.111
+61,2700607,Barra de São Miguel,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+62,2700607,Barra de São Miguel,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,36.626
+63,2700607,Barra de São Miguel,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,48.391
+64,2700607,Barra de São Miguel,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,515.835
+65,2700607,Barra de São Miguel,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,23.807
+66,2700607,Barra de São Miguel,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,12.101
+67,2700607,Barra de São Miguel,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,324.441
+68,2700607,Barra de São Miguel,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,11.936
+69,2700607,Barra de São Miguel,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,142.281
+70,2700607,Barra de São Miguel,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1749.748
+71,2700607,Barra de São Miguel,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,50.352
+72,2700607,Barra de São Miguel,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,88.117
+73,2700706,Batalha,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+74,2700706,Batalha,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+75,2700706,Batalha,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1021.843
+76,2700706,Batalha,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+77,2700706,Batalha,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+78,2700706,Batalha,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+79,2700706,Batalha,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,257.789
+80,2700706,Batalha,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+81,2700706,Batalha,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,32.538
+82,2700706,Batalha,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,127.675
+83,2700706,Batalha,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+84,2700706,Batalha,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,85.117
+85,2700805,Belém,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+86,2700805,Belém,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,64.392
+87,2700805,Belém,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,305.344
+88,2700805,Belém,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,243.524
+89,2700805,Belém,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+90,2700805,Belém,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+91,2700805,Belém,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1381.215
+92,2700805,Belém,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,163.399
+93,2700805,Belém,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+94,2700805,Belém,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+95,2700805,Belém,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+96,2700805,Belém,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,254.13
+97,2700904,Belo Monte,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+98,2700904,Belo Monte,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,162.65
+99,2700904,Belo Monte,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,383.764
+100,2700904,Belo Monte,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,14.736
+101,2700904,Belo Monte,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+102,2700904,Belo Monte,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+103,2700904,Belo Monte,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,208.831
+104,2700904,Belo Monte,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+105,2700904,Belo Monte,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+106,2700904,Belo Monte,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,16.846
+107,2700904,Belo Monte,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,33.693
+108,2700904,Belo Monte,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,16.846
+109,2701001,Boca da Mata,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+110,2701001,Boca da Mata,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,77.248
+111,2701001,Boca da Mata,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,178.839
+112,2701001,Boca da Mata,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,174.558
+113,2701001,Boca da Mata,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+114,2701001,Boca da Mata,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+115,2701001,Boca da Mata,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,84.308
+116,2701001,Boca da Mata,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+117,2701001,Boca da Mata,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,3.646
+118,2701001,Boca da Mata,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,127.437
+119,2701001,Boca da Mata,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,273.753
+120,2701001,Boca da Mata,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,33.039
+121,2701100,Branquinha,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+122,2701100,Branquinha,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,584.253
+123,2701100,Branquinha,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,120.987
+124,2701100,Branquinha,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,28.014
+125,2701100,Branquinha,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+126,2701100,Branquinha,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+127,2701100,Branquinha,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,9.529
+128,2701100,Branquinha,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+129,2701100,Branquinha,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,383.656
+130,2701100,Branquinha,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1707.8
+131,2701100,Branquinha,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,249.922
+132,2701100,Branquinha,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,208.268
+133,2701209,Cacimbinhas,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+134,2701209,Cacimbinhas,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,74.246
+135,2701209,Cacimbinhas,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1192.457
+136,2701209,Cacimbinhas,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,64.463
+137,2701209,Cacimbinhas,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+138,2701209,Cacimbinhas,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+139,2701209,Cacimbinhas,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,303.923
+140,2701209,Cacimbinhas,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+141,2701209,Cacimbinhas,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,91.575
+142,2701209,Cacimbinhas,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,181.263
+143,2701209,Cacimbinhas,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,19.08
+144,2701209,Cacimbinhas,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,28.62
+145,2701308,Cajueiro,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+146,2701308,Cajueiro,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,221.062
+147,2701308,Cajueiro,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,23.414
+148,2701308,Cajueiro,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,23.318
+149,2701308,Cajueiro,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+150,2701308,Cajueiro,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+151,2701308,Cajueiro,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,75.245
+152,2701308,Cajueiro,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+153,2701308,Cajueiro,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,219.657
+154,2701308,Cajueiro,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,262.107
+155,2701308,Cajueiro,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,12.481
+156,2701308,Cajueiro,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,24.963
+157,2701357,Campestre,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+158,2701357,Campestre,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,43.153
+159,2701357,Campestre,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,186.3
+160,2701357,Campestre,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,114.253
+161,2701357,Campestre,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,14.237
+162,2701357,Campestre,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+163,2701357,Campestre,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,72.088
+164,2701357,Campestre,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+165,2701357,Campestre,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,14.343
+166,2701357,Campestre,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,4.832
+167,2701357,Campestre,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+168,2701357,Campestre,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,4.832
+169,2701407,Campo Alegre,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+170,2701407,Campo Alegre,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,10.75
+171,2701407,Campo Alegre,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,81.517
+172,2701407,Campo Alegre,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,99.986
+173,2701407,Campo Alegre,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+174,2701407,Campo Alegre,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+175,2701407,Campo Alegre,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,254.105
+176,2701407,Campo Alegre,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,10.428
+177,2701407,Campo Alegre,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,5.173
+178,2701407,Campo Alegre,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,2615.791
+179,2701407,Campo Alegre,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1031.917
+180,2701407,Campo Alegre,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,119.99
+181,2701506,Campo Grande,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+182,2701506,Campo Grande,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+183,2701506,Campo Grande,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+184,2701506,Campo Grande,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,82.662
+185,2701506,Campo Grande,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+186,2701506,Campo Grande,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+187,2701506,Campo Grande,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,282.486
+188,2701506,Campo Grande,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+189,2701506,Campo Grande,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+190,2701506,Campo Grande,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+191,2701506,Campo Grande,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+192,2701506,Campo Grande,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.334
+193,2701605,Canapi,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+194,2701605,Canapi,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,116.842
+195,2701605,Canapi,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,2225.189
+196,2701605,Canapi,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,5.562
+197,2701605,Canapi,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+198,2701605,Canapi,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+199,2701605,Canapi,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,62.07
+200,2701605,Canapi,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,141.091
+201,2701605,Canapi,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+202,2701605,Canapi,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+203,2701605,Canapi,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,19.281
+204,2701605,Canapi,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,44.99
+205,2701704,Capela,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+206,2701704,Capela,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+207,2701704,Capela,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,5.712
+208,2701704,Capela,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,5.738
+209,2701704,Capela,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+210,2701704,Capela,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,5.84
+211,2701704,Capela,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,381.165
+212,2701704,Capela,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,11.779
+213,2701704,Capela,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,35.488
+214,2701704,Capela,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,347.606
+215,2701704,Capela,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,113.762
+216,2701704,Capela,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,154.843
+217,2701803,Carneiros,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+218,2701803,Carneiros,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+219,2701803,Carneiros,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,367.934
+220,2701803,Carneiros,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,264.755
+221,2701803,Carneiros,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+222,2701803,Carneiros,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,11.111
+223,2701803,Carneiros,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,22.024
+224,2701803,Carneiros,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+225,2701803,Carneiros,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,31.355
+226,2701803,Carneiros,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,100.011
+227,2701803,Carneiros,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+228,2701803,Carneiros,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,211.135
+229,2701902,Chã Preta,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+230,2701902,Chã Preta,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,53.93
+231,2701902,Chã Preta,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,309.931
+232,2701902,Chã Preta,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+233,2701902,Chã Preta,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+234,2701902,Chã Preta,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+235,2701902,Chã Preta,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+236,2701902,Chã Preta,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,382.985
+237,2701902,Chã Preta,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+238,2701902,Chã Preta,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+239,2701902,Chã Preta,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+240,2701902,Chã Preta,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,67.682
+241,2702009,Coité do Nóia,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+242,2702009,Coité do Nóia,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,380.125
+243,2702009,Coité do Nóia,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,363.901
+244,2702009,Coité do Nóia,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,45.708
+245,2702009,Coité do Nóia,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,18.369
+246,2702009,Coité do Nóia,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,65.153
+247,2702009,Coité do Nóia,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1402.787
+248,2702009,Coité do Nóia,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,37.583
+249,2702009,Coité do Nóia,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+250,2702009,Coité do Nóia,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,55.504
+251,2702009,Coité do Nóia,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+252,2702009,Coité do Nóia,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,46.253
+253,2702108,Colônia Leopoldina,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+254,2702108,Colônia Leopoldina,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,37.249
+255,2702108,Colônia Leopoldina,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,554.631
+256,2702108,Colônia Leopoldina,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,523.272
+257,2702108,Colônia Leopoldina,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+258,2702108,Colônia Leopoldina,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,78.795
+259,2702108,Colônia Leopoldina,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,221.219
+260,2702108,Colônia Leopoldina,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+261,2702108,Colônia Leopoldina,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1308.411
+262,2702108,Colônia Leopoldina,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,2364.694
+263,2702108,Colônia Leopoldina,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,196.004
+264,2702108,Colônia Leopoldina,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,271.877
+265,2702207,Coqueiro Seco,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+266,2702207,Coqueiro Seco,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,581.793
+267,2702207,Coqueiro Seco,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,255.537
+268,2702207,Coqueiro Seco,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,576.76
+269,2702207,Coqueiro Seco,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+270,2702207,Coqueiro Seco,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+271,2702207,Coqueiro Seco,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,718.563
+272,2702207,Coqueiro Seco,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+273,2702207,Coqueiro Seco,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,34.002
+274,2702207,Coqueiro Seco,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,465.866
+275,2702207,Coqueiro Seco,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,35.836
+276,2702207,Coqueiro Seco,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,143.343
+277,2702306,Coruripe,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+278,2702306,Coruripe,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,14.247
+279,2702306,Coruripe,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,3.532
+280,2702306,Coruripe,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,3.504
+281,2702306,Coruripe,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+282,2702306,Coruripe,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,17.68
+283,2702306,Coruripe,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,226.582
+284,2702306,Coruripe,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,3.491
+285,2702306,Coruripe,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,19.082
+286,2702306,Coruripe,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,725.989
+287,2702306,Coruripe,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,228.111
+288,2702306,Coruripe,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,406.633
+289,2702355,Craíbas,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+290,2702355,Craíbas,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,24.828
+291,2702355,Craíbas,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,395.257
+292,2702355,Craíbas,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,24.587
+293,2702355,Craíbas,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+294,2702355,Craíbas,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,8.289
+295,2702355,Craíbas,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,772.121
+296,2702355,Craíbas,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,74.047
+297,2702355,Craíbas,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,24.594
+298,2702355,Craíbas,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,157.499
+299,2702355,Craíbas,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,7.875
+300,2702355,Craíbas,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,594.558
+301,2702405,Delmiro Gouveia,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+302,2702405,Delmiro Gouveia,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,128.532
+303,2702405,Delmiro Gouveia,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,805.816
+304,2702405,Delmiro Gouveia,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,231.331
+305,2702405,Delmiro Gouveia,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,17.111
+306,2702405,Delmiro Gouveia,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,17.387
+307,2702405,Delmiro Gouveia,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,161.489
+308,2702405,Delmiro Gouveia,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,430.523
+309,2702405,Delmiro Gouveia,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,91.427
+310,2702405,Delmiro Gouveia,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,426.751
+311,2702405,Delmiro Gouveia,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,35.075
+312,2702405,Delmiro Gouveia,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,498.85
+313,2702504,Dois Riachos,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+314,2702504,Dois Riachos,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,35.622
+315,2702504,Dois Riachos,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,873.129
+316,2702504,Dois Riachos,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,71.308
+317,2702504,Dois Riachos,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,8.917
+318,2702504,Dois Riachos,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,54.279
+319,2702504,Dois Riachos,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,18.059
+320,2702504,Dois Riachos,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+321,2702504,Dois Riachos,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,27.127
+322,2702504,Dois Riachos,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,50.994
+323,2702504,Dois Riachos,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,10.199
+324,2702504,Dois Riachos,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,50.994
+325,2702553,Estrela de Alagoas,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+326,2702553,Estrela de Alagoas,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,5.495
+327,2702553,Estrela de Alagoas,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,142.03
+328,2702553,Estrela de Alagoas,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+329,2702553,Estrela de Alagoas,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+330,2702553,Estrela de Alagoas,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+331,2702553,Estrela de Alagoas,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,115.353
+332,2702553,Estrela de Alagoas,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+333,2702553,Estrela de Alagoas,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,21.853
+334,2702553,Estrela de Alagoas,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+335,2702553,Estrela de Alagoas,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+336,2702553,Estrela de Alagoas,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+337,2702603,Feira Grande,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+338,2702603,Feira Grande,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,638.222
+339,2702603,Feira Grande,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,797.967
+340,2702603,Feira Grande,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,253.807
+341,2702603,Feira Grande,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+342,2702603,Feira Grande,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+343,2702603,Feira Grande,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,613.552
+344,2702603,Feira Grande,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,198.395
+345,2702603,Feira Grande,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,31.543
+346,2702603,Feira Grande,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,180.521
+347,2702603,Feira Grande,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,105.671
+348,2702603,Feira Grande,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,2298.344
+349,2702702,Feliz Deserto,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+350,2702702,Feliz Deserto,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,21.213
+351,2702702,Feliz Deserto,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+352,2702702,Feliz Deserto,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+353,2702702,Feliz Deserto,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+354,2702702,Feliz Deserto,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+355,2702702,Feliz Deserto,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,694.152
+356,2702702,Feliz Deserto,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,20.925
+357,2702702,Feliz Deserto,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,20.82
+358,2702702,Feliz Deserto,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,50.467
+359,2702702,Feliz Deserto,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,25.233
+360,2702702,Feliz Deserto,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+361,2702801,Flexeiras,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+362,2702801,Flexeiras,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,15.516
+363,2702801,Flexeiras,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,61.934
+364,2702801,Flexeiras,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,15.452
+365,2702801,Flexeiras,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+366,2702801,Flexeiras,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+367,2702801,Flexeiras,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,758.405
+368,2702801,Flexeiras,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,7.808
+369,2702801,Flexeiras,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,101.38
+370,2702801,Flexeiras,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,717.405
+371,2702801,Flexeiras,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,10.397
+372,2702801,Flexeiras,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,301.518
+373,2702900,Girau do Ponciano,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+374,2702900,Girau do Ponciano,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,29.925
+375,2702900,Girau do Ponciano,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,130.803
+376,2702900,Girau do Ponciano,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,36.664
+377,2702900,Girau do Ponciano,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,4.845
+378,2702900,Girau do Ponciano,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,2.464
+379,2702900,Girau do Ponciano,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,75.763
+380,2702900,Girau do Ponciano,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,9.7
+381,2702900,Girau do Ponciano,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,12.034
+382,2702900,Girau do Ponciano,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,5.54
+383,2702900,Girau do Ponciano,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,5.54
+384,2702900,Girau do Ponciano,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,99.717
+385,2703007,Ibateguara,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+386,2703007,Ibateguara,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+387,2703007,Ibateguara,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,18.984
+388,2703007,Ibateguara,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,12.641
+389,2703007,Ibateguara,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,6.313
+390,2703007,Ibateguara,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+391,2703007,Ibateguara,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,473.873
+392,2703007,Ibateguara,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,403.148
+393,2703007,Ibateguara,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,51.161
+394,2703007,Ibateguara,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,276.746
+395,2703007,Ibateguara,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,65.545
+396,2703007,Ibateguara,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,80.111
+397,2703106,Igaci,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+398,2703106,Igaci,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,23.024
+399,2703106,Igaci,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,264.967
+400,2703106,Igaci,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,46.099
+401,2703106,Igaci,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,3.843
+402,2703106,Igaci,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,3.899
+403,2703106,Igaci,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,136.553
+404,2703106,Igaci,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,23.426
+405,2703106,Igaci,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+406,2703106,Igaci,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,487.602
+407,2703106,Igaci,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+408,2703106,Igaci,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,16.67
+409,2703205,Igreja Nova,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+410,2703205,Igreja Nova,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,16.357
+411,2703205,Igreja Nova,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,56.968
+412,2703205,Igreja Nova,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,24.304
+413,2703205,Igreja Nova,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,8.067
+414,2703205,Igreja Nova,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,12.291
+415,2703205,Igreja Nova,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,624.515
+416,2703205,Igreja Nova,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,16.269
+417,2703205,Igreja Nova,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,48.642
+418,2703205,Igreja Nova,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,60.827
+419,2703205,Igreja Nova,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,9.358
+420,2703205,Igreja Nova,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,51.469
+421,2703304,Inhapi,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+422,2703304,Inhapi,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,16.186
+423,2703304,Inhapi,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,7008.217
+424,2703304,Inhapi,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,380.963
+425,2703304,Inhapi,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,10.723
+426,2703304,Inhapi,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,10.883
+427,2703304,Inhapi,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,114.224
+428,2703304,Inhapi,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,38.06
+429,2703304,Inhapi,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+430,2703304,Inhapi,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,665.919
+431,2703304,Inhapi,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,32.966
+432,2703304,Inhapi,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,164.832
+433,2703403,Jacaré dos Homens,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+434,2703403,Jacaré dos Homens,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+435,2703403,Jacaré dos Homens,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,110.518
+436,2703403,Jacaré dos Homens,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,37.099
+437,2703403,Jacaré dos Homens,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+438,2703403,Jacaré dos Homens,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,37.821
+439,2703403,Jacaré dos Homens,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,761.47
+440,2703403,Jacaré dos Homens,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,95.804
+441,2703403,Jacaré dos Homens,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,57.859
+442,2703403,Jacaré dos Homens,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,511.509
+443,2703403,Jacaré dos Homens,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,98.367
+444,2703403,Jacaré dos Homens,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,826.284
+445,2703502,Jacuípe,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+446,2703502,Jacuípe,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,41.8
+447,2703502,Jacuípe,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,125.663
+448,2703502,Jacuípe,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,27.98
+449,2703502,Jacuípe,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,14.015
+450,2703502,Jacuípe,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+451,2703502,Jacuípe,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,170.916
+452,2703502,Jacuípe,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,57.094
+453,2703502,Jacuípe,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,286.041
+454,2703502,Jacuípe,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,56.054
+455,2703502,Jacuípe,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,37.369
+456,2703502,Jacuípe,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,93.423
+457,2703601,Japaratinga,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+458,2703601,Japaratinga,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,12.057
+459,2703601,Japaratinga,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+460,2703601,Japaratinga,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+461,2703601,Japaratinga,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+462,2703601,Japaratinga,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,12.024
+463,2703601,Japaratinga,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,466.451
+464,2703601,Japaratinga,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+465,2703601,Japaratinga,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,118.427
+466,2703601,Japaratinga,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,206.096
+467,2703601,Japaratinga,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,21.694
+468,2703601,Japaratinga,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1420.978
+469,2703700,Jaramataia,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+470,2703700,Jaramataia,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,35.051
+471,2703700,Jaramataia,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,158.033
+472,2703700,Jaramataia,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+473,2703700,Jaramataia,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+474,2703700,Jaramataia,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+475,2703700,Jaramataia,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1473.137
+476,2703700,Jaramataia,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,121.507
+477,2703700,Jaramataia,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+478,2703700,Jaramataia,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,621.866
+479,2703700,Jaramataia,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,60.181
+480,2703700,Jaramataia,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,320.963
+481,2703759,Jequiá da Praia,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+482,2703759,Jequiá da Praia,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,67.125
+483,2703759,Jequiá da Praia,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,58.977
+484,2703759,Jequiá da Praia,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,25.372
+485,2703759,Jequiá da Praia,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+486,2703759,Jequiá da Praia,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+487,2703759,Jequiá da Praia,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,129.534
+488,2703759,Jequiá da Praia,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,8.669
+489,2703759,Jequiá da Praia,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+490,2703759,Jequiá da Praia,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,31.679
+491,2703759,Jequiá da Praia,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,21.119
+492,2703759,Jequiá da Praia,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,316.79
+493,2703809,Joaquim Gomes,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+494,2703809,Joaquim Gomes,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,16.708
+495,2703809,Joaquim Gomes,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,116.371
+496,2703809,Joaquim Gomes,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,33.093
+497,2703809,Joaquim Gomes,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+498,2703809,Joaquim Gomes,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,12.551
+499,2703809,Joaquim Gomes,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,879.423
+500,2703809,Joaquim Gomes,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,20.763
+501,2703809,Joaquim Gomes,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,132.412
+502,2703809,Joaquim Gomes,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,594.752
+503,2703809,Joaquim Gomes,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,29.155
+504,2703809,Joaquim Gomes,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,478.134
+505,2703908,Jundiá,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+506,2703908,Jundiá,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+507,2703908,Jundiá,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+508,2703908,Jundiá,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+509,2703908,Jundiá,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+510,2703908,Jundiá,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+511,2703908,Jundiá,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,168.472
+512,2703908,Jundiá,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+513,2703908,Jundiá,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+514,2703908,Jundiá,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,342.131
+515,2703908,Jundiá,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+516,2703908,Jundiá,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,268.817
+517,2704005,Junqueiro,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+518,2704005,Junqueiro,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,247.229
+519,2704005,Junqueiro,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,179.397
+520,2704005,Junqueiro,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1442.921
+521,2704005,Junqueiro,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,11.956
+522,2704005,Junqueiro,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,8.087
+523,2704005,Junqueiro,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,501.476
+524,2704005,Junqueiro,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,68.765
+525,2704005,Junqueiro,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,12.138
+526,2704005,Junqueiro,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,409.922
+527,2704005,Junqueiro,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,108.755
+528,2704005,Junqueiro,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,96.206
+529,2704104,Lagoa da Canoa,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+530,2704104,Lagoa da Canoa,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,119.325
+531,2704104,Lagoa da Canoa,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,130.84
+532,2704104,Lagoa da Canoa,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,32.866
+533,2704104,Lagoa da Canoa,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+534,2704104,Lagoa da Canoa,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+535,2704104,Lagoa da Canoa,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,2985.66
+536,2704104,Lagoa da Canoa,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,33.763
+537,2704104,Lagoa da Canoa,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,45.218
+538,2704104,Lagoa da Canoa,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,216.72
+539,2704104,Lagoa da Canoa,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+540,2704104,Lagoa da Canoa,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,10.836
+541,2704203,Limoeiro de Anadia,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,7.081
+542,2704203,Limoeiro de Anadia,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,182.847
+543,2704203,Limoeiro de Anadia,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,195.661
+544,2704203,Limoeiro de Anadia,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,312.576
+545,2704203,Limoeiro de Anadia,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,17.269
+546,2704203,Limoeiro de Anadia,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,3.509
+547,2704203,Limoeiro de Anadia,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1753.099
+548,2704203,Limoeiro de Anadia,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,3.476
+549,2704203,Limoeiro de Anadia,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,96.872
+550,2704203,Limoeiro de Anadia,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,545.675
+551,2704203,Limoeiro de Anadia,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,32.336
+552,2704203,Limoeiro de Anadia,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,113.177
+553,2704302,Maceió,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.702
+554,2704302,Maceió,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,597.024
+555,2704302,Maceió,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,396.637
+556,2704302,Maceió,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,567.872
+557,2704302,Maceió,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,70.448
+558,2704302,Maceió,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,42.573
+559,2704302,Maceió,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,493.352
+560,2704302,Maceió,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,96.551
+561,2704302,Maceió,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,400.835
+562,2704302,Maceió,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1632.085
+563,2704302,Maceió,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,257.121
+564,2704302,Maceió,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,636.173
+565,2704401,Major Isidoro,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+566,2704401,Major Isidoro,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,40.074
+567,2704401,Major Isidoro,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,2539.033
+568,2704401,Major Isidoro,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+569,2704401,Major Isidoro,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+570,2704401,Major Isidoro,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+571,2704401,Major Isidoro,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,237.326
+572,2704401,Major Isidoro,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,90.616
+573,2704401,Major Isidoro,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,125.483
+574,2704401,Major Isidoro,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,28.249
+575,2704401,Major Isidoro,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,11.299
+576,2704401,Major Isidoro,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,5.65
+577,2704500,Maragogi,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+578,2704500,Maragogi,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,409.475
+579,2704500,Maragogi,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1482.702
+580,2704500,Maragogi,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,770.695
+581,2704500,Maragogi,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,303.582
+582,2704500,Maragogi,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,163.737
+583,2704500,Maragogi,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,678.816
+584,2704500,Maragogi,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,293.655
+585,2704500,Maragogi,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,356.811
+586,2704500,Maragogi,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,2390.129
+587,2704500,Maragogi,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,313.918
+588,2704500,Maragogi,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,2607.696
+589,2704609,Maravilha,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+590,2704609,Maravilha,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,10.038
+591,2704609,Maravilha,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,153.531
+592,2704609,Maravilha,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+593,2704609,Maravilha,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,21.236
+594,2704609,Maravilha,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+595,2704609,Maravilha,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+596,2704609,Maravilha,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,133.274
+597,2704609,Maravilha,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,45.198
+598,2704609,Maravilha,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,3.54
+599,2704609,Maravilha,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+600,2704609,Maravilha,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,88.492
+601,2704708,Marechal Deodoro,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+602,2704708,Marechal Deodoro,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,207.871
+603,2704708,Marechal Deodoro,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1243.839
+604,2704708,Marechal Deodoro,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,611.041
+605,2704708,Marechal Deodoro,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,19.135
+606,2704708,Marechal Deodoro,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,5.841
+607,2704708,Marechal Deodoro,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,57.802
+608,2704708,Marechal Deodoro,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,5.727
+609,2704708,Marechal Deodoro,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,117.318
+610,2704708,Marechal Deodoro,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,3970.515
+611,2704708,Marechal Deodoro,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,21.534
+612,2704708,Marechal Deodoro,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,723.869
+613,2704807,Maribondo,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+614,2704807,Maribondo,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,72.892
+615,2704807,Maribondo,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,409.806
+616,2704807,Maribondo,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,206.079
+617,2704807,Maribondo,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,7.4
+618,2704807,Maribondo,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,22.494
+619,2704807,Maribondo,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,67.853
+620,2704807,Maribondo,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+621,2704807,Maribondo,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+622,2704807,Maribondo,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,950.362
+623,2704807,Maribondo,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,21.931
+624,2704807,Maribondo,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,146.21
+625,2704906,Mar Vermelho,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+626,2704906,Mar Vermelho,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+627,2704906,Mar Vermelho,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+628,2704906,Mar Vermelho,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+629,2704906,Mar Vermelho,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+630,2704906,Mar Vermelho,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+631,2704906,Mar Vermelho,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+632,2704906,Mar Vermelho,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,343.446
+633,2704906,Mar Vermelho,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+634,2704906,Mar Vermelho,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+635,2704906,Mar Vermelho,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+636,2704906,Mar Vermelho,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,158.479
+637,2705002,Mata Grande,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+638,2705002,Mata Grande,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,19.486
+639,2705002,Mata Grande,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,10734.662
+640,2705002,Mata Grande,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,2387.745
+641,2705002,Mata Grande,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,11.724
+642,2705002,Mata Grande,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,15.857
+643,2705002,Mata Grande,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,697.97
+644,2705002,Mata Grande,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,23.803
+645,2705002,Mata Grande,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+646,2705002,Mata Grande,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,128.182
+647,2705002,Mata Grande,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,27.467
+648,2705002,Mata Grande,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,187.695
+649,2705101,Matriz de Camaragibe,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+650,2705101,Matriz de Camaragibe,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+651,2705101,Matriz de Camaragibe,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,59.981
+652,2705101,Matriz de Camaragibe,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,175.93
+653,2705101,Matriz de Camaragibe,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+654,2705101,Matriz de Camaragibe,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,4.057
+655,2705101,Matriz de Camaragibe,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,64.93
+656,2705101,Matriz de Camaragibe,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+657,2705101,Matriz de Camaragibe,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,48.727
+658,2705101,Matriz de Camaragibe,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,4723.98
+659,2705101,Matriz de Camaragibe,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,29.341
+660,2705101,Matriz de Camaragibe,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,96.408
+661,2705200,Messias,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+662,2705200,Messias,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,28.818
+663,2705200,Messias,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,176.377
+664,2705200,Messias,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,230.48
+665,2705200,Messias,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+666,2705200,Messias,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+667,2705200,Messias,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,162.41
+668,2705200,Messias,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,271.754
+669,2705200,Messias,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,208.78
+670,2705200,Messias,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,3505.355
+671,2705200,Messias,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+672,2705200,Messias,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,6.491
+673,2705309,Minador do Negrão,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+674,2705309,Minador do Negrão,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+675,2705309,Minador do Negrão,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+676,2705309,Minador do Negrão,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,92.268
+677,2705309,Minador do Negrão,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+678,2705309,Minador do Negrão,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+679,2705309,Minador do Negrão,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,168.887
+680,2705309,Minador do Negrão,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+681,2705309,Minador do Negrão,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+682,2705309,Minador do Negrão,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+683,2705309,Minador do Negrão,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+684,2705309,Minador do Negrão,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,61.92
+685,2705408,Monteirópolis,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+686,2705408,Monteirópolis,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,96.819
+687,2705408,Monteirópolis,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,455.738
+688,2705408,Monteirópolis,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,441.318
+689,2705408,Monteirópolis,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+690,2705408,Monteirópolis,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+691,2705408,Monteirópolis,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,349.211
+692,2705408,Monteirópolis,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+693,2705408,Monteirópolis,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,13.945
+694,2705408,Monteirópolis,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+695,2705408,Monteirópolis,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+696,2705408,Monteirópolis,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,13.92
+697,2705507,Murici,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,7.103
+698,2705507,Murici,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,124.109
+699,2705507,Murici,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,35.292
+700,2705507,Murici,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+701,2705507,Murici,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,45.488
+702,2705507,Murici,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,3.554
+703,2705507,Murici,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,7.083
+704,2705507,Murici,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+705,2705507,Murici,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1737.723
+706,2705507,Murici,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1596.061
+707,2705507,Murici,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,79.406
+708,2705507,Murici,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,408.941
+709,2705606,Novo Lino,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+710,2705606,Novo Lino,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+711,2705606,Novo Lino,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,47.457
+712,2705606,Novo Lino,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,133.49
+713,2705606,Novo Lino,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+714,2705606,Novo Lino,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+715,2705606,Novo Lino,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,86.682
+716,2705606,Novo Lino,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,39.173
+717,2705606,Novo Lino,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,7.79
+718,2705606,Novo Lino,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+719,2705606,Novo Lino,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+720,2705606,Novo Lino,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,59.88
+721,2705705,Olho d'Água das Flores,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+722,2705705,Olho d'Água das Flores,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,18.543
+723,2705705,Olho d'Água das Flores,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,110.901
+724,2705705,Olho d'Água das Flores,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,36.856
+725,2705705,Olho d'Água das Flores,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+726,2705705,Olho d'Água das Flores,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+727,2705705,Olho d'Água das Flores,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,461.084
+728,2705705,Olho d'Água das Flores,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,13.801
+729,2705705,Olho d'Água das Flores,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+730,2705705,Olho d'Água das Flores,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,352.742
+731,2705705,Olho d'Água das Flores,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,14.496
+732,2705705,Olho d'Água das Flores,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,488.041
+733,2705804,Olho d'Água do Casado,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+734,2705804,Olho d'Água do Casado,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,10.859
+735,2705804,Olho d'Água do Casado,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,10.755
+736,2705804,Olho d'Água do Casado,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+737,2705804,Olho d'Água do Casado,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+738,2705804,Olho d'Água do Casado,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+739,2705804,Olho d'Água do Casado,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+740,2705804,Olho d'Água do Casado,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,10.592
+741,2705804,Olho d'Água do Casado,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+742,2705804,Olho d'Água do Casado,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,11.977
+743,2705804,Olho d'Água do Casado,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,11.977
+744,2705804,Olho d'Água do Casado,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,35.932
+745,2705903,Olho d'Água Grande,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+746,2705903,Olho d'Água Grande,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+747,2705903,Olho d'Água Grande,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,57.937
+748,2705903,Olho d'Água Grande,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,19.279
+749,2705903,Olho d'Água Grande,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+750,2705903,Olho d'Água Grande,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+751,2705903,Olho d'Água Grande,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,644.154
+752,2705903,Olho d'Água Grande,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,19.501
+753,2705903,Olho d'Água Grande,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,58.445
+754,2705903,Olho d'Água Grande,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+755,2705903,Olho d'Água Grande,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+756,2705903,Olho d'Água Grande,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+757,2706000,Olivença,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+758,2706000,Olivença,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,51.533
+759,2706000,Olivença,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1368.925
+760,2706000,Olivença,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,784.247
+761,2706000,Olivença,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+762,2706000,Olivença,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+763,2706000,Olivença,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,25.809
+764,2706000,Olivença,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+765,2706000,Olivença,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+766,2706000,Olivença,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,527.192
+767,2706000,Olivença,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+768,2706000,Olivença,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,27.747
+769,2706109,Ouro Branco,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+770,2706109,Ouro Branco,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,95.785
+771,2706109,Ouro Branco,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,4793.274
+772,2706109,Ouro Branco,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,172.577
+773,2706109,Ouro Branco,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,25.784
+774,2706109,Ouro Branco,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+775,2706109,Ouro Branco,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+776,2706109,Ouro Branco,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,69.354
+777,2706109,Ouro Branco,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,17.282
+778,2706109,Ouro Branco,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,2.582
+779,2706109,Ouro Branco,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,2.582
+780,2706109,Ouro Branco,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+781,2706208,Palestina,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+782,2706208,Palestina,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,221.328
+783,2706208,Palestina,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,259.792
+784,2706208,Palestina,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,19.857
+785,2706208,Palestina,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+786,2706208,Palestina,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,40.12
+787,2706208,Palestina,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,3432.449
+788,2706208,Palestina,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+789,2706208,Palestina,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,19.759
+790,2706208,Palestina,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,17.428
+791,2706208,Palestina,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+792,2706208,Palestina,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,95.852
+793,2706307,Palmeira dos Índios,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+794,2706307,Palmeira dos Índios,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,276.704
+795,2706307,Palmeira dos Índios,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,2402.61
+796,2706307,Palmeira dos Índios,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,684.682
+797,2706307,Palmeira dos Índios,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,86.244
+798,2706307,Palmeira dos Índios,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,41.042
+799,2706307,Palmeira dos Índios,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,385.151
+800,2706307,Palmeira dos Índios,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,84.541
+801,2706307,Palmeira dos Índios,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,34.036
+802,2706307,Palmeira dos Índios,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1708.721
+803,2706307,Palmeira dos Índios,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,107.581
+804,2706307,Palmeira dos Índios,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1306.34
+805,2706406,Pão de Açúcar,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+806,2706406,Pão de Açúcar,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,88.268
+807,2706406,Pão de Açúcar,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,245.197
+808,2706406,Pão de Açúcar,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,148.989
+809,2706406,Pão de Açúcar,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,36.302
+810,2706406,Pão de Açúcar,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+811,2706406,Pão de Açúcar,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,315.587
+812,2706406,Pão de Açúcar,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,36.959
+813,2706406,Pão de Açúcar,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,4.114
+814,2706406,Pão de Açúcar,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,16.79
+815,2706406,Pão de Açúcar,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+816,2706406,Pão de Açúcar,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,428.158
+817,2706422,Pariconha,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+818,2706422,Pariconha,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,37.425
+819,2706422,Pariconha,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,245.26
+820,2706422,Pariconha,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,65.58
+821,2706422,Pariconha,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,9.36
+822,2706422,Pariconha,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,18.999
+823,2706422,Pariconha,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,18.988
+824,2706422,Pariconha,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,9.489
+825,2706422,Pariconha,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+826,2706422,Pariconha,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,18.916
+827,2706422,Pariconha,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+828,2706422,Pariconha,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,208.077
+829,2706448,Paripueira,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+830,2706448,Paripueira,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,149.76
+831,2706448,Paripueira,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,116.396
+832,2706448,Paripueira,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,122.362
+833,2706448,Paripueira,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,37.73
+834,2706448,Paripueira,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,53.78
+835,2706448,Paripueira,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,546.448
+836,2706448,Paripueira,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,105.011
+837,2706448,Paripueira,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,133.492
+838,2706448,Paripueira,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,93.965
+839,2706448,Paripueira,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,7.228
+840,2706448,Paripueira,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,115.649
+841,2706505,Passo de Camaragibe,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+842,2706505,Passo de Camaragibe,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,12.99
+843,2706505,Passo de Camaragibe,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,6.486
+844,2706505,Passo de Camaragibe,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+845,2706505,Passo de Camaragibe,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+846,2706505,Passo de Camaragibe,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,6.565
+847,2706505,Passo de Camaragibe,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,6.56
+848,2706505,Passo de Camaragibe,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+849,2706505,Passo de Camaragibe,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+850,2706505,Passo de Camaragibe,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,57.954
+851,2706505,Passo de Camaragibe,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+852,2706505,Passo de Camaragibe,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+853,2706604,Paulo Jacinto,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+854,2706604,Paulo Jacinto,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+855,2706604,Paulo Jacinto,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,13.017
+856,2706604,Paulo Jacinto,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+857,2706604,Paulo Jacinto,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+858,2706604,Paulo Jacinto,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+859,2706604,Paulo Jacinto,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,462.718
+860,2706604,Paulo Jacinto,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,648.148
+861,2706604,Paulo Jacinto,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,39.704
+862,2706604,Paulo Jacinto,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,653.893
+863,2706604,Paulo Jacinto,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+864,2706604,Paulo Jacinto,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,60.827
+865,2706703,Penedo,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1.572
+866,2706703,Penedo,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1998.684
+867,2706703,Penedo,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,866.186
+868,2706703,Penedo,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1037.454
+869,2706703,Penedo,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,6.202
+870,2706703,Penedo,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,3.149
+871,2706703,Penedo,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1438.374
+872,2706703,Penedo,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,21.928
+873,2706703,Penedo,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,331.224
+874,2706703,Penedo,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,175.618
+875,2706703,Penedo,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1.705
+876,2706703,Penedo,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,20.46
+877,2706802,Piaçabuçu,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+878,2706802,Piaçabuçu,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,16.688
+879,2706802,Piaçabuçu,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,227.639
+880,2706802,Piaçabuçu,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,260.489
+881,2706802,Piaçabuçu,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,5.533
+882,2706802,Piaçabuçu,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,11.233
+883,2706802,Piaçabuçu,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,740.45
+884,2706802,Piaçabuçu,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,78.44
+885,2706802,Piaçabuçu,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,33.58
+886,2706802,Piaçabuçu,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,339.452
+887,2706802,Piaçabuçu,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,6.286
+888,2706802,Piaçabuçu,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,144.581
+889,2706901,Pilar,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+890,2706901,Pilar,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,256.024
+891,2706901,Pilar,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,566.653
+892,2706901,Pilar,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,313.312
+893,2706901,Pilar,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,56.256
+894,2706901,Pilar,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,31.421
+895,2706901,Pilar,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,304.748
+896,2706901,Pilar,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,159.037
+897,2706901,Pilar,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,342.679
+898,2706901,Pilar,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,670.059
+899,2706901,Pilar,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,19.791
+900,2706901,Pilar,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,675.714
+901,2707008,Pindoba,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+902,2707008,Pindoba,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,33.807
+903,2707008,Pindoba,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+904,2707008,Pindoba,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+905,2707008,Pindoba,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+906,2707008,Pindoba,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+907,2707008,Pindoba,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,137.552
+908,2707008,Pindoba,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,172.117
+909,2707008,Pindoba,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+910,2707008,Pindoba,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+911,2707008,Pindoba,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+912,2707008,Pindoba,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+913,2707107,Piranhas,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+914,2707107,Piranhas,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,72.701
+915,2707107,Piranhas,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,244.489
+916,2707107,Piranhas,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,31.834
+917,2707107,Piranhas,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+918,2707107,Piranhas,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+919,2707107,Piranhas,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,139.782
+920,2707107,Piranhas,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,3.971
+921,2707107,Piranhas,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+922,2707107,Piranhas,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,273.224
+923,2707107,Piranhas,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,34.153
+924,2707107,Piranhas,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,93.921
+925,2707206,Poço das Trincheiras,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+926,2707206,Poço das Trincheiras,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,20.763
+927,2707206,Poço das Trincheiras,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,269.095
+928,2707206,Poço das Trincheiras,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,447.196
+929,2707206,Poço das Trincheiras,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,6.861
+930,2707206,Poço das Trincheiras,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,13.933
+931,2707206,Poço das Trincheiras,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,41.707
+932,2707206,Poço das Trincheiras,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,152.587
+933,2707206,Poço das Trincheiras,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+934,2707206,Poço das Trincheiras,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+935,2707206,Poço das Trincheiras,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+936,2707206,Poço das Trincheiras,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,47.931
+937,2707305,Porto Calvo,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+938,2707305,Porto Calvo,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,99.371
+939,2707305,Porto Calvo,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,179.566
+940,2707305,Porto Calvo,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,3.65
+941,2707305,Porto Calvo,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,25.454
+942,2707305,Porto Calvo,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,3.693
+943,2707305,Porto Calvo,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1060.188
+944,2707305,Porto Calvo,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,132.115
+945,2707305,Porto Calvo,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,120.742
+946,2707305,Porto Calvo,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,581.613
+947,2707305,Porto Calvo,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,245.108
+948,2707305,Porto Calvo,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,510.988
+949,2707404,Porto de Pedras,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+950,2707404,Porto de Pedras,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+951,2707404,Porto de Pedras,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,61.342
+952,2707404,Porto de Pedras,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+953,2707404,Porto de Pedras,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,25.11
+954,2707404,Porto de Pedras,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,50.807
+955,2707404,Porto de Pedras,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,51.374
+956,2707404,Porto de Pedras,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,12.985
+957,2707404,Porto de Pedras,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+958,2707404,Porto de Pedras,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,182.894
+959,2707404,Porto de Pedras,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+960,2707404,Porto de Pedras,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,139.86
+961,2707503,Porto Real do Colégio,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+962,2707503,Porto Real do Colégio,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+963,2707503,Porto Real do Colégio,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,118.782
+964,2707503,Porto Real do Colégio,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,29.603
+965,2707503,Porto Real do Colégio,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+966,2707503,Porto Real do Colégio,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+967,2707503,Porto Real do Colégio,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,54.819
+968,2707503,Porto Real do Colégio,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+969,2707503,Porto Real do Colégio,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+970,2707503,Porto Real do Colégio,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,54.775
+971,2707503,Porto Real do Colégio,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,49.796
+972,2707503,Porto Real do Colégio,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,59.755
+973,2707602,Quebrangulo,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+974,2707602,Quebrangulo,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+975,2707602,Quebrangulo,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+976,2707602,Quebrangulo,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+977,2707602,Quebrangulo,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,17.397
+978,2707602,Quebrangulo,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,8.817
+979,2707602,Quebrangulo,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,726.049
+980,2707602,Quebrangulo,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,284.495
+981,2707602,Quebrangulo,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,151.759
+982,2707602,Quebrangulo,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1236.462
+983,2707602,Quebrangulo,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,27.076
+984,2707602,Quebrangulo,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,144.404
+985,2707701,Rio Largo,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,4.176
+986,2707701,Rio Largo,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,567.314
+987,2707701,Rio Largo,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,210.192
+988,2707701,Rio Largo,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1210.231
+989,2707701,Rio Largo,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,73.666
+990,2707701,Rio Largo,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,58.794
+991,2707701,Rio Largo,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,238.285
+992,2707701,Rio Largo,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,30.506
+993,2707701,Rio Largo,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,44.937
+994,2707701,Rio Largo,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,225.707
+995,2707701,Rio Largo,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+996,2707701,Rio Largo,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,77.72
+997,2707800,Roteiro,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+998,2707800,Roteiro,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,14.665
+999,2707800,Roteiro,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,161.693
+1000,2707800,Roteiro,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1826.753
+1001,2707800,Roteiro,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1002,2707800,Roteiro,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1003,2707800,Roteiro,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1004,2707800,Roteiro,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1005,2707800,Roteiro,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1006,2707800,Roteiro,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,231.696
+1007,2707800,Roteiro,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1008,2707800,Roteiro,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,725.981
+1009,2707909,Santa Luzia do Norte,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1010,2707909,Santa Luzia do Norte,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,205.705
+1011,2707909,Santa Luzia do Norte,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1012,2707909,Santa Luzia do Norte,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,13.592
+1013,2707909,Santa Luzia do Norte,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1014,2707909,Santa Luzia do Norte,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1015,2707909,Santa Luzia do Norte,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,836.075
+1016,2707909,Santa Luzia do Norte,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,54.645
+1017,2707909,Santa Luzia do Norte,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,40.85
+1018,2707909,Santa Luzia do Norte,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,2644.891
+1019,2707909,Santa Luzia do Norte,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,158.983
+1020,2707909,Santa Luzia do Norte,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,101.171
+1021,2708006,Santana do Ipanema,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,10.559
+1022,2708006,Santana do Ipanema,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1271.195
+1023,2708006,Santana do Ipanema,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1848.599
+1024,2708006,Santana do Ipanema,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,2479.545
+1025,2708006,Santana do Ipanema,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,72.566
+1026,2708006,Santana do Ipanema,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,27.376
+1027,2708006,Santana do Ipanema,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,60.855
+1028,2708006,Santana do Ipanema,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,8.365
+1029,2708006,Santana do Ipanema,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,6.262
+1030,2708006,Santana do Ipanema,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,328.862
+1031,2708006,Santana do Ipanema,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,17.309
+1032,2708006,Santana do Ipanema,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,887.062
+1033,2708105,Santana do Mundaú,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1034,2708105,Santana do Mundaú,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,36.134
+1035,2708105,Santana do Mundaú,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,99.918
+1036,2708105,Santana do Mundaú,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,9.131
+1037,2708105,Santana do Mundaú,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1038,2708105,Santana do Mundaú,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1039,2708105,Santana do Mundaú,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1657.356
+1040,2708105,Santana do Mundaú,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,9.357
+1041,2708105,Santana do Mundaú,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,37.605
+1042,2708105,Santana do Mundaú,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,88.316
+1043,2708105,Santana do Mundaú,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,203.126
+1044,2708105,Santana do Mundaú,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,600.548
+1045,2708204,São Brás,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1046,2708204,São Brás,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,14.245
+1047,2708204,São Brás,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,14.217
+1048,2708204,São Brás,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,14.192
+1049,2708204,São Brás,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1050,2708204,São Brás,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1051,2708204,São Brás,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,718.288
+1052,2708204,São Brás,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1053,2708204,São Brás,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1054,2708204,São Brás,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1055,2708204,São Brás,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1056,2708204,São Brás,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,45.767
+1057,2708303,São José da Laje,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1058,2708303,São José da Laje,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,16.701
+1059,2708303,São José da Laje,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1060,2708303,São José da Laje,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,91.135
+1061,2708303,São José da Laje,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,12.383
+1062,2708303,São José da Laje,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,46.112
+1063,2708303,São José da Laje,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,37.614
+1064,2708303,São José da Laje,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,25.004
+1065,2708303,São José da Laje,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,182.846
+1066,2708303,São José da Laje,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,831.211
+1067,2708303,São José da Laje,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,115.313
+1068,2708303,São José da Laje,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,494.883
+1069,2708402,São José da Tapera,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1070,2708402,São José da Tapera,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,9.353
+1071,2708402,São José da Tapera,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,15.494
+1072,2708402,São José da Tapera,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,15.406
+1073,2708402,São José da Tapera,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1074,2708402,São José da Tapera,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1075,2708402,São José da Tapera,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,21.699
+1076,2708402,São José da Tapera,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,21.602
+1077,2708402,São José da Tapera,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1078,2708402,São José da Tapera,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,3.268
+1079,2708402,São José da Tapera,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,3.268
+1080,2708402,São José da Tapera,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,26.14
+1081,2708501,São Luís do Quitunde,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1082,2708501,São Luís do Quitunde,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,23.232
+1083,2708501,São Luís do Quitunde,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,75.095
+1084,2708501,São Luís do Quitunde,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,5.747
+1085,2708501,São Luís do Quitunde,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,22.883
+1086,2708501,São Luís do Quitunde,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,2.906
+1087,2708501,São Luís do Quitunde,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,92.606
+1088,2708501,São Luís do Quitunde,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,17.295
+1089,2708501,São Luís do Quitunde,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,74.659
+1090,2708501,São Luís do Quitunde,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,903.702
+1091,2708501,São Luís do Quitunde,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1092,2708501,São Luís do Quitunde,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,29.152
+1093,2708600,São Miguel dos Campos,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1094,2708600,São Miguel dos Campos,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,75.213
+1095,2708600,São Miguel dos Campos,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,142.057
+1096,2708600,São Miguel dos Campos,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,86.596
+1097,2708600,São Miguel dos Campos,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,8.087
+1098,2708600,São Miguel dos Campos,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,4.936
+1099,2708600,São Miguel dos Campos,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,213.874
+1100,2708600,São Miguel dos Campos,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,40.455
+1101,2708600,São Miguel dos Campos,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,537.479
+1102,2708600,São Miguel dos Campos,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,2677.438
+1103,2708600,São Miguel dos Campos,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,480.862
+1104,2708600,São Miguel dos Campos,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,571.264
+1105,2708709,São Miguel dos Milagres,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1106,2708709,São Miguel dos Milagres,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,102.63
+1107,2708709,São Miguel dos Milagres,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1108,2708709,São Miguel dos Milagres,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,352.157
+1109,2708709,São Miguel dos Milagres,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,12.466
+1110,2708709,São Miguel dos Milagres,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1111,2708709,São Miguel dos Milagres,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,50.308
+1112,2708709,São Miguel dos Milagres,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1113,2708709,São Miguel dos Milagres,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1114,2708709,São Miguel dos Milagres,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,23.579
+1115,2708709,São Miguel dos Milagres,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1116,2708709,São Miguel dos Milagres,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1117,2708808,São Sebastião,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,2.956
+1118,2708808,São Sebastião,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,376.205
+1119,2708808,São Sebastião,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,648.914
+1120,2708808,São Sebastião,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,23.265
+1121,2708808,São Sebastião,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,2.894
+1122,2708808,São Sebastião,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1123,2708808,São Sebastião,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,638.323
+1124,2708808,São Sebastião,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,64.159
+1125,2708808,São Sebastião,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,20.335
+1126,2708808,São Sebastião,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,11.03
+1127,2708808,São Sebastião,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1.226
+1128,2708808,São Sebastião,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,20.835
+1129,2708907,Satuba,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1130,2708907,Satuba,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,362.51
+1131,2708907,Satuba,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,164.412
+1132,2708907,Satuba,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,94.039
+1133,2708907,Satuba,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1134,2708907,Satuba,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,7.291
+1135,2708907,Satuba,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,650.853
+1136,2708907,Satuba,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,14.351
+1137,2708907,Satuba,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,35.607
+1138,2708907,Satuba,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,819.672
+1139,2708907,Satuba,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,8.238
+1140,2708907,Satuba,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,32.952
+1141,2708956,Senador Rui Palmeira,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1142,2708956,Senador Rui Palmeira,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,7.226
+1143,2708956,Senador Rui Palmeira,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1495.435
+1144,2708956,Senador Rui Palmeira,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,21.468
+1145,2708956,Senador Rui Palmeira,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,21.374
+1146,2708956,Senador Rui Palmeira,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1147,2708956,Senador Rui Palmeira,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,36.049
+1148,2708956,Senador Rui Palmeira,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,100.567
+1149,2708956,Senador Rui Palmeira,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,14.396
+1150,2708956,Senador Rui Palmeira,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,130.05
+1151,2708956,Senador Rui Palmeira,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1152,2708956,Senador Rui Palmeira,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,552.711
+1153,2709004,Tanque d'Arca,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1154,2709004,Tanque d'Arca,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,31.516
+1155,2709004,Tanque d'Arca,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,63.301
+1156,2709004,Tanque d'Arca,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,63.563
+1157,2709004,Tanque d'Arca,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1158,2709004,Tanque d'Arca,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1159,2709004,Tanque d'Arca,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,146.056
+1160,2709004,Tanque d'Arca,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,48.876
+1161,2709004,Tanque d'Arca,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1162,2709004,Tanque d'Arca,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1163,2709004,Tanque d'Arca,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1164,2709004,Tanque d'Arca,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1165,2709103,Taquarana,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1166,2709103,Taquarana,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,105.761
+1167,2709103,Taquarana,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,395.395
+1168,2709103,Taquarana,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,437.876
+1169,2709103,Taquarana,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,24.746
+1170,2709103,Taquarana,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1171,2709103,Taquarana,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,675.676
+1172,2709103,Taquarana,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,4.982
+1173,2709103,Taquarana,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,9.92
+1174,2709103,Taquarana,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1255.78
+1175,2709103,Taquarana,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,36.78
+1176,2709103,Taquarana,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,310.004
+1177,2709152,Teotônio Vilela,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1178,2709152,Teotônio Vilela,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,38.729
+1179,2709152,Teotônio Vilela,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,851.276
+1180,2709152,Teotônio Vilela,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,195.831
+1181,2709152,Teotônio Vilela,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,11.194
+1182,2709152,Teotônio Vilela,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,22.748
+1183,2709152,Teotônio Vilela,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,45.281
+1184,2709152,Teotônio Vilela,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,4.507
+1185,2709152,Teotônio Vilela,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,20.193
+1186,2709152,Teotônio Vilela,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,386.303
+1187,2709152,Teotônio Vilela,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,21.023
+1188,2709152,Teotônio Vilela,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,44.675
+1189,2709202,Traipu,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1190,2709202,Traipu,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1191,2709202,Traipu,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,187.064
+1192,2709202,Traipu,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,136.015
+1193,2709202,Traipu,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1194,2709202,Traipu,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1195,2709202,Traipu,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,97.42
+1196,2709202,Traipu,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,10.781
+1197,2709202,Traipu,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,21.479
+1198,2709202,Traipu,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,25.461
+1199,2709202,Traipu,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,59.41
+1200,2709202,Traipu,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,59.41
+1201,2709301,União dos Palmares,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1202,2709301,União dos Palmares,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,103.4
+1203,2709301,União dos Palmares,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,284.775
+1204,2709301,União dos Palmares,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,653.536
+1205,2709301,União dos Palmares,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,4.513
+1206,2709301,União dos Palmares,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,129.848
+1207,2709301,União dos Palmares,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,190.517
+1208,2709301,União dos Palmares,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,15.2
+1209,2709301,União dos Palmares,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1503.873
+1210,2709301,União dos Palmares,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,4272.942
+1211,2709301,União dos Palmares,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,1136.977
+1212,2709301,União dos Palmares,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,695.007
+1213,2709400,Viçosa,2013,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1214,2709400,Viçosa,2014,Notificações Registradas de Dengue,Incidência de dengue,Taxa,373.348
+1215,2709400,Viçosa,2015,Notificações Registradas de Dengue,Incidência de dengue,Taxa,320.464
+1216,2709400,Viçosa,2016,Notificações Registradas de Dengue,Incidência de dengue,Taxa,106.968
+1217,2709400,Viçosa,2017,Notificações Registradas de Dengue,Incidência de dengue,Taxa,7.65
+1218,2709400,Viçosa,2018,Notificações Registradas de Dengue,Incidência de dengue,Taxa,0.0
+1219,2709400,Viçosa,2019,Notificações Registradas de Dengue,Incidência de dengue,Taxa,831.617
+1220,2709400,Viçosa,2020,Notificações Registradas de Dengue,Incidência de dengue,Taxa,459.269
+1221,2709400,Viçosa,2021,Notificações Registradas de Dengue,Incidência de dengue,Taxa,374.196
+1222,2709400,Viçosa,2022,Notificações Registradas de Dengue,Incidência de dengue,Taxa,418.684
+1223,2709400,Viçosa,2023,Notificações Registradas de Dengue,Incidência de dengue,Taxa,6.542
+1224,2709400,Viçosa,2024,Notificações Registradas de Dengue,Incidência de dengue,Taxa,112.521
