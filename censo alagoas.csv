@@ -1,0 +1,613 @@
+﻿_id,co_mun,no_mun,ano,variavel,pop_categoria,pop_subcategoria,valor
+1,2700102,Água Branca,1970,População residente censitária,Total,Total,22620
+2,2700102,Água Branca,1980,População residente censitária,Total,Total,25159
+3,2700102,Água Branca,1991,População residente censitária,Total,Total,26560
+4,2700102,Água Branca,2000,População residente censitária,Total,Total,18660
+5,2700102,Água Branca,2010,População residente censitária,Total,Total,19377
+6,2700102,Água Branca,2022,População residente censitária,Total,Total,19008
+7,2700201,Anadia,1970,População residente censitária,Total,Total,12586
+8,2700201,Anadia,1980,População residente censitária,Total,Total,14833
+9,2700201,Anadia,1991,População residente censitária,Total,Total,16337
+10,2700201,Anadia,2000,População residente censitária,Total,Total,17849
+11,2700201,Anadia,2010,População residente censitária,Total,Total,17424
+12,2700201,Anadia,2022,População residente censitária,Total,Total,13811
+13,2700300,Arapiraca,1970,População residente censitária,Total,Total,94287
+14,2700300,Arapiraca,1980,População residente censitária,Total,Total,136178
+15,2700300,Arapiraca,1991,População residente censitária,Total,Total,164921
+16,2700300,Arapiraca,2000,População residente censitária,Total,Total,186466
+17,2700300,Arapiraca,2010,População residente censitária,Total,Total,214006
+18,2700300,Arapiraca,2022,População residente censitária,Total,Total,234696
+19,2700409,Atalaia,1970,População residente censitária,Total,Total,40075
+20,2700409,Atalaia,1980,População residente censitária,Total,Total,41766
+21,2700409,Atalaia,1991,População residente censitária,Total,Total,38563
+22,2700409,Atalaia,2000,População residente censitária,Total,Total,40552
+23,2700409,Atalaia,2010,População residente censitária,Total,Total,44322
+24,2700409,Atalaia,2022,População residente censitária,Total,Total,37512
+25,2700508,Barra de Santo Antônio,1970,População residente censitária,Total,Total,6028
+26,2700508,Barra de Santo Antônio,1980,População residente censitária,Total,Total,9696
+27,2700508,Barra de Santo Antônio,1991,População residente censitária,Total,Total,14334
+28,2700508,Barra de Santo Antônio,2000,População residente censitária,Total,Total,11351
+29,2700508,Barra de Santo Antônio,2010,População residente censitária,Total,Total,14230
+30,2700508,Barra de Santo Antônio,2022,População residente censitária,Total,Total,16365
+31,2700607,Barra de São Miguel,1970,População residente censitária,Total,Total,1418
+32,2700607,Barra de São Miguel,1980,População residente censitária,Total,Total,2328
+33,2700607,Barra de São Miguel,1991,População residente censitária,Total,Total,4950
+34,2700607,Barra de São Miguel,2000,População residente censitária,Total,Total,6379
+35,2700607,Barra de São Miguel,2010,População residente censitária,Total,Total,7574
+36,2700607,Barra de São Miguel,2022,População residente censitária,Total,Total,7944
+37,2700706,Batalha,1970,População residente censitária,Total,Total,9015
+38,2700706,Batalha,1980,População residente censitária,Total,Total,10384
+39,2700706,Batalha,1991,População residente censitária,Total,Total,13033
+40,2700706,Batalha,2000,População residente censitária,Total,Total,14799
+41,2700706,Batalha,2010,População residente censitária,Total,Total,17076
+42,2700706,Batalha,2022,População residente censitária,Total,Total,16448
+43,2700805,Belém,1970,População residente censitária,Total,Total,5761
+44,2700805,Belém,1980,População residente censitária,Total,Total,6234
+45,2700805,Belém,1991,População residente censitária,Total,Total,5919
+46,2700805,Belém,2000,População residente censitária,Total,Total,5919
+47,2700805,Belém,2010,População residente censitária,Total,Total,4551
+48,2700805,Belém,2022,População residente censitária,Total,Total,4722
+49,2700904,Belo Monte,1970,População residente censitária,Total,Total,4698
+50,2700904,Belo Monte,1980,População residente censitária,Total,Total,5712
+51,2700904,Belo Monte,1991,População residente censitária,Total,Total,7067
+52,2700904,Belo Monte,2000,População residente censitária,Total,Total,6822
+53,2700904,Belo Monte,2010,População residente censitária,Total,Total,7030
+54,2700904,Belo Monte,2022,População residente censitária,Total,Total,5936
+55,2701001,Boca da Mata,1970,População residente censitária,Total,Total,15362
+56,2701001,Boca da Mata,1980,População residente censitária,Total,Total,18164
+57,2701001,Boca da Mata,1991,População residente censitária,Total,Total,22188
+58,2701001,Boca da Mata,2000,População residente censitária,Total,Total,24227
+59,2701001,Boca da Mata,2010,População residente censitária,Total,Total,25776
+60,2701001,Boca da Mata,2022,População residente censitária,Total,Total,21187
+61,2701100,Branquinha,1970,População residente censitária,Total,Total,9983
+62,2701100,Branquinha,1980,População residente censitária,Total,Total,9543
+63,2701100,Branquinha,1991,População residente censitária,Total,Total,8305
+64,2701100,Branquinha,2000,População residente censitária,Total,Total,11325
+65,2701100,Branquinha,2010,População residente censitária,Total,Total,10583
+66,2701100,Branquinha,2022,População residente censitária,Total,Total,9603
+67,2701209,Cacimbinhas,1970,População residente censitária,Total,Total,9305
+68,2701209,Cacimbinhas,1980,População residente censitária,Total,Total,10588
+69,2701209,Cacimbinhas,1991,População residente censitária,Total,Total,13721
+70,2701209,Cacimbinhas,2000,População residente censitária,Total,Total,9552
+71,2701209,Cacimbinhas,2010,População residente censitária,Total,Total,10195
+72,2701209,Cacimbinhas,2022,População residente censitária,Total,Total,10476
+73,2701308,Cajueiro,1970,População residente censitária,Total,Total,11910
+74,2701308,Cajueiro,1980,População residente censitária,Total,Total,13445
+75,2701308,Cajueiro,1991,População residente censitária,Total,Total,18597
+76,2701308,Cajueiro,2000,População residente censitária,Total,Total,18975
+77,2701308,Cajueiro,2010,População residente censitária,Total,Total,20409
+78,2701308,Cajueiro,2022,População residente censitária,Total,Total,16024
+79,2701357,Campestre,1970,População residente censitária,Total,Total,...
+80,2701357,Campestre,1980,População residente censitária,Total,Total,...
+81,2701357,Campestre,1991,População residente censitária,Total,Total,...
+82,2701357,Campestre,2000,População residente censitária,Total,Total,6223
+83,2701357,Campestre,2010,População residente censitária,Total,Total,6598
+84,2701357,Campestre,2022,População residente censitária,Total,Total,6665
+85,2701407,Campo Alegre,1970,População residente censitária,Total,Total,6950
+86,2701407,Campo Alegre,1980,População residente censitária,Total,Total,17581
+87,2701407,Campo Alegre,1991,População residente censitária,Total,Total,36770
+88,2701407,Campo Alegre,2000,População residente censitária,Total,Total,41028
+89,2701407,Campo Alegre,2010,População residente censitária,Total,Total,50816
+90,2701407,Campo Alegre,2022,População residente censitária,Total,Total,32106
+91,2701506,Campo Grande,1970,População residente censitária,Total,Total,7420
+92,2701506,Campo Grande,1980,População residente censitária,Total,Total,9293
+93,2701506,Campo Grande,1991,População residente censitária,Total,Total,10041
+94,2701506,Campo Grande,2000,População residente censitária,Total,Total,9134
+95,2701506,Campo Grande,2010,População residente censitária,Total,Total,9032
+96,2701506,Campo Grande,2022,População residente censitária,Total,Total,8142
+97,2701605,Canapi,1970,População residente censitária,Total,Total,13824
+98,2701605,Canapi,1980,População residente censitária,Total,Total,18356
+99,2701605,Canapi,1991,População residente censitária,Total,Total,18630
+100,2701605,Canapi,2000,População residente censitária,Total,Total,17334
+101,2701605,Canapi,2010,População residente censitária,Total,Total,17250
+102,2701605,Canapi,2022,População residente censitária,Total,Total,15559
+103,2701704,Capela,1970,População residente censitária,Total,Total,19601
+104,2701704,Capela,1980,População residente censitária,Total,Total,18615
+105,2701704,Capela,1991,População residente censitária,Total,Total,18777
+106,2701704,Capela,2000,População residente censitária,Total,Total,18693
+107,2701704,Capela,2010,População residente censitária,Total,Total,17077
+108,2701704,Capela,2022,População residente censitária,Total,Total,15032
+109,2701803,Carneiros,1970,População residente censitária,Total,Total,5012
+110,2701803,Carneiros,1980,População residente censitária,Total,Total,5447
+111,2701803,Carneiros,1991,População residente censitária,Total,Total,5687
+112,2701803,Carneiros,2000,População residente censitária,Total,Total,6585
+113,2701803,Carneiros,2010,População residente censitária,Total,Total,8290
+114,2701803,Carneiros,2022,População residente censitária,Total,Total,8999
+115,2701902,Chã Preta,1970,População residente censitária,Total,Total,10587
+116,2701902,Chã Preta,1980,População residente censitária,Total,Total,9866
+117,2701902,Chã Preta,1991,População residente censitária,Total,Total,8196
+118,2701902,Chã Preta,2000,População residente censitária,Total,Total,7760
+119,2701902,Chã Preta,2010,População residente censitária,Total,Total,7146
+120,2701902,Chã Preta,2022,População residente censitária,Total,Total,5910
+121,2702009,Coité do Nóia,1970,População residente censitária,Total,Total,7047
+122,2702009,Coité do Nóia,1980,População residente censitária,Total,Total,8963
+123,2702009,Coité do Nóia,1991,População residente censitária,Total,Total,9799
+124,2702009,Coité do Nóia,2000,População residente censitária,Total,Total,11993
+125,2702009,Coité do Nóia,2010,População residente censitária,Total,Total,10926
+126,2702009,Coité do Nóia,2022,População residente censitária,Total,Total,10810
+127,2702108,Colônia Leopoldina,1970,População residente censitária,Total,Total,12701
+128,2702108,Colônia Leopoldina,1980,População residente censitária,Total,Total,14913
+129,2702108,Colônia Leopoldina,1991,População residente censitária,Total,Total,16739
+130,2702108,Colônia Leopoldina,2000,População residente censitária,Total,Total,17493
+131,2702108,Colônia Leopoldina,2010,População residente censitária,Total,Total,20019
+132,2702108,Colônia Leopoldina,2022,População residente censitária,Total,Total,15816
+133,2702207,Coqueiro Seco,1970,População residente censitária,Total,Total,2857
+134,2702207,Coqueiro Seco,1980,População residente censitária,Total,Total,3799
+135,2702207,Coqueiro Seco,1991,População residente censitária,Total,Total,4784
+136,2702207,Coqueiro Seco,2000,População residente censitária,Total,Total,5134
+137,2702207,Coqueiro Seco,2010,População residente censitária,Total,Total,5526
+138,2702207,Coqueiro Seco,2022,População residente censitária,Total,Total,5581
+139,2702306,Coruripe,1970,População residente censitária,Total,Total,27225
+140,2702306,Coruripe,1980,População residente censitária,Total,Total,41650
+141,2702306,Coruripe,1991,População residente censitária,Total,Total,49240
+142,2702306,Coruripe,2000,População residente censitária,Total,Total,48846
+143,2702306,Coruripe,2010,População residente censitária,Total,Total,52130
+144,2702306,Coruripe,2022,População residente censitária,Total,Total,50414
+145,2702355,Craíbas,1970,População residente censitária,Total,Total,...
+146,2702355,Craíbas,1980,População residente censitária,Total,Total,...
+147,2702355,Craíbas,1991,População residente censitária,Total,Total,17816
+148,2702355,Craíbas,2000,População residente censitária,Total,Total,20789
+149,2702355,Craíbas,2010,População residente censitária,Total,Total,22641
+150,2702355,Craíbas,2022,População residente censitária,Total,Total,25397
+151,2702405,Delmiro Gouveia,1970,População residente censitária,Total,Total,14680
+152,2702405,Delmiro Gouveia,1980,População residente censitária,Total,Total,26768
+153,2702405,Delmiro Gouveia,1991,População residente censitária,Total,Total,41214
+154,2702405,Delmiro Gouveia,2000,População residente censitária,Total,Total,42995
+155,2702405,Delmiro Gouveia,2010,População residente censitária,Total,Total,48096
+156,2702405,Delmiro Gouveia,2022,População residente censitária,Total,Total,51319
+157,2702504,Dois Riachos,1970,População residente censitária,Total,Total,6222
+158,2702504,Dois Riachos,1980,População residente censitária,Total,Total,7952
+159,2702504,Dois Riachos,1991,População residente censitária,Total,Total,10011
+160,2702504,Dois Riachos,2000,População residente censitária,Total,Total,11066
+161,2702504,Dois Riachos,2010,População residente censitária,Total,Total,10880
+162,2702504,Dois Riachos,2022,População residente censitária,Total,Total,9805
+163,2702553,Estrela de Alagoas,1970,População residente censitária,Total,Total,...
+164,2702553,Estrela de Alagoas,1980,População residente censitária,Total,Total,...
+165,2702553,Estrela de Alagoas,1991,População residente censitária,Total,Total,...
+166,2702553,Estrela de Alagoas,2000,População residente censitária,Total,Total,16341
+167,2702553,Estrela de Alagoas,2010,População residente censitária,Total,Total,17251
+168,2702553,Estrela de Alagoas,2022,População residente censitária,Total,Total,15429
+169,2702603,Feira Grande,1970,População residente censitária,Total,Total,13310
+170,2702603,Feira Grande,1980,População residente censitária,Total,Total,17542
+171,2702603,Feira Grande,1991,População residente censitária,Total,Total,19052
+172,2702603,Feira Grande,2000,População residente censitária,Total,Total,21270
+173,2702603,Feira Grande,2010,População residente censitária,Total,Total,21321
+174,2702603,Feira Grande,2022,População residente censitária,Total,Total,22712
+175,2702702,Feliz Deserto,1970,População residente censitária,Total,Total,1723
+176,2702702,Feliz Deserto,1980,População residente censitária,Total,Total,2690
+177,2702702,Feliz Deserto,1991,População residente censitária,Total,Total,3438
+178,2702702,Feliz Deserto,2000,População residente censitária,Total,Total,3836
+179,2702702,Feliz Deserto,2010,População residente censitária,Total,Total,4345
+180,2702702,Feliz Deserto,2022,População residente censitária,Total,Total,3963
+181,2702801,Flexeiras,1970,População residente censitária,Total,Total,12042
+182,2702801,Flexeiras,1980,População residente censitária,Total,Total,14008
+183,2702801,Flexeiras,1991,População residente censitária,Total,Total,12097
+184,2702801,Flexeiras,2000,População residente censitária,Total,Total,11979
+185,2702801,Flexeiras,2010,População residente censitária,Total,Total,12325
+186,2702801,Flexeiras,2022,População residente censitária,Total,Total,9618
+187,2702900,Girau do Ponciano,1970,População residente censitária,Total,Total,18347
+188,2702900,Girau do Ponciano,1980,População residente censitária,Total,Total,22459
+189,2702900,Girau do Ponciano,1991,População residente censitária,Total,Total,27801
+190,2702900,Girau do Ponciano,2000,População residente censitária,Total,Total,29574
+191,2702900,Girau do Ponciano,2010,População residente censitária,Total,Total,36600
+192,2702900,Girau do Ponciano,2022,População residente censitária,Total,Total,36102
+193,2703007,Ibateguara,1970,População residente censitária,Total,Total,11567
+194,2703007,Ibateguara,1980,População residente censitária,Total,Total,12086
+195,2703007,Ibateguara,1991,População residente censitária,Total,Total,15620
+196,2703007,Ibateguara,2000,População residente censitária,Total,Total,15105
+197,2703007,Ibateguara,2010,População residente censitária,Total,Total,15149
+198,2703007,Ibateguara,2022,População residente censitária,Total,Total,13731
+199,2703106,Igaci,1970,População residente censitária,Total,Total,23331
+200,2703106,Igaci,1980,População residente censitária,Total,Total,24579
+201,2703106,Igaci,1991,População residente censitária,Total,Total,26127
+202,2703106,Igaci,2000,População residente censitária,Total,Total,25584
+203,2703106,Igaci,2010,População residente censitária,Total,Total,25188
+204,2703106,Igaci,2022,População residente censitária,Total,Total,23995
+205,2703205,Igreja Nova,1970,População residente censitária,Total,Total,19343
+206,2703205,Igreja Nova,1980,População residente censitária,Total,Total,19142
+207,2703205,Igreja Nova,1991,População residente censitária,Total,Total,19849
+208,2703205,Igreja Nova,2000,População residente censitária,Total,Total,21451
+209,2703205,Igreja Nova,2010,População residente censitária,Total,Total,23292
+210,2703205,Igreja Nova,2022,População residente censitária,Total,Total,21372
+211,2703304,Inhapi,1970,População residente censitária,Total,Total,9453
+212,2703304,Inhapi,1980,População residente censitária,Total,Total,12861
+213,2703304,Inhapi,1991,População residente censitária,Total,Total,14791
+214,2703304,Inhapi,2000,População residente censitária,Total,Total,17768
+215,2703304,Inhapi,2010,População residente censitária,Total,Total,17898
+216,2703304,Inhapi,2022,População residente censitária,Total,Total,15167
+217,2703403,Jacaré dos Homens,1970,População residente censitária,Total,Total,3708
+218,2703403,Jacaré dos Homens,1980,População residente censitária,Total,Total,3873
+219,2703403,Jacaré dos Homens,1991,População residente censitária,Total,Total,4746
+220,2703403,Jacaré dos Homens,2000,População residente censitária,Total,Total,5720
+221,2703403,Jacaré dos Homens,2010,População residente censitária,Total,Total,5413
+222,2703403,Jacaré dos Homens,2022,População residente censitária,Total,Total,5083
+223,2703502,Jacuípe,1970,População residente censitária,Total,Total,7694
+224,2703502,Jacuípe,1980,População residente censitária,Total,Total,7532
+225,2703502,Jacuípe,1991,População residente censitária,Total,Total,7481
+226,2703502,Jacuípe,2000,População residente censitária,Total,Total,7313
+227,2703502,Jacuípe,2010,População residente censitária,Total,Total,6997
+228,2703502,Jacuípe,2022,População residente censitária,Total,Total,5352
+229,2703601,Japaratinga,1970,População residente censitária,Total,Total,2802
+230,2703601,Japaratinga,1980,População residente censitária,Total,Total,4227
+231,2703601,Japaratinga,1991,População residente censitária,Total,Total,7093
+232,2703601,Japaratinga,2000,População residente censitária,Total,Total,6868
+233,2703601,Japaratinga,2010,População residente censitária,Total,Total,7754
+234,2703601,Japaratinga,2022,População residente censitária,Total,Total,9219
+235,2703700,Jaramataia,1970,População residente censitária,Total,Total,2320
+236,2703700,Jaramataia,1980,População residente censitária,Total,Total,3161
+237,2703700,Jaramataia,1991,População residente censitária,Total,Total,4372
+238,2703700,Jaramataia,2000,População residente censitária,Total,Total,5788
+239,2703700,Jaramataia,2010,População residente censitária,Total,Total,5558
+240,2703700,Jaramataia,2022,População residente censitária,Total,Total,4985
+241,2703759,Jequiá da Praia,1970,População residente censitária,Total,Total,...
+242,2703759,Jequiá da Praia,1980,População residente censitária,Total,Total,...
+243,2703759,Jequiá da Praia,1991,População residente censitária,Total,Total,...
+244,2703759,Jequiá da Praia,2000,População residente censitária,Total,Total,...
+245,2703759,Jequiá da Praia,2010,População residente censitária,Total,Total,12029
+246,2703759,Jequiá da Praia,2022,População residente censitária,Total,Total,9470
+247,2703809,Joaquim Gomes,1970,População residente censitária,Total,Total,15430
+248,2703809,Joaquim Gomes,1980,População residente censitária,Total,Total,17969
+249,2703809,Joaquim Gomes,1991,População residente censitária,Total,Total,24201
+250,2703809,Joaquim Gomes,2000,População residente censitária,Total,Total,21488
+251,2703809,Joaquim Gomes,2010,População residente censitária,Total,Total,22575
+252,2703809,Joaquim Gomes,2022,População residente censitária,Total,Total,17152
+253,2703908,Jundiá,1970,População residente censitária,Total,Total,9957
+254,2703908,Jundiá,1980,População residente censitária,Total,Total,10566
+255,2703908,Jundiá,1991,População residente censitária,Total,Total,15074
+256,2703908,Jundiá,2000,População residente censitária,Total,Total,4680
+257,2703908,Jundiá,2010,População residente censitária,Total,Total,4202
+258,2703908,Jundiá,2022,População residente censitária,Total,Total,4093
+259,2704005,Junqueiro,1970,População residente censitária,Total,Total,14998
+260,2704005,Junqueiro,1980,População residente censitária,Total,Total,31200
+261,2704005,Junqueiro,1991,População residente censitária,Total,Total,22221
+262,2704005,Junqueiro,2000,População residente censitária,Total,Total,23832
+263,2704005,Junqueiro,2010,População residente censitária,Total,Total,23836
+264,2704005,Junqueiro,2022,População residente censitária,Total,Total,23907
+265,2704104,Lagoa da Canoa,1970,População residente censitária,Total,Total,11562
+266,2704104,Lagoa da Canoa,1980,População residente censitária,Total,Total,12594
+267,2704104,Lagoa da Canoa,1991,População residente censitária,Total,Total,15900
+268,2704104,Lagoa da Canoa,2000,População residente censitária,Total,Total,19988
+269,2704104,Lagoa da Canoa,2010,População residente censitária,Total,Total,18250
+270,2704104,Lagoa da Canoa,2022,População residente censitária,Total,Total,18457
+271,2704203,Limoeiro de Anadia,1970,População residente censitária,Total,Total,16725
+272,2704203,Limoeiro de Anadia,1980,População residente censitária,Total,Total,18173
+273,2704203,Limoeiro de Anadia,1991,População residente censitária,Total,Total,19447
+274,2704203,Limoeiro de Anadia,2000,População residente censitária,Total,Total,24263
+275,2704203,Limoeiro de Anadia,2010,População residente censitária,Total,Total,26992
+276,2704203,Limoeiro de Anadia,2022,População residente censitária,Total,Total,24740
+277,2704302,Maceió,1970,População residente censitária,Total,Total,263670
+278,2704302,Maceió,1980,População residente censitária,Total,Total,399300
+279,2704302,Maceió,1991,População residente censitária,Total,Total,629041
+280,2704302,Maceió,2000,População residente censitária,Total,Total,797759
+281,2704302,Maceió,2010,População residente censitária,Total,Total,932748
+282,2704302,Maceió,2022,População residente censitária,Total,Total,957916
+283,2704401,Major Isidoro,1970,População residente censitária,Total,Total,14230
+284,2704401,Major Isidoro,1980,População residente censitária,Total,Total,16020
+285,2704401,Major Isidoro,1991,População residente censitária,Total,Total,17257
+286,2704401,Major Isidoro,2000,População residente censitária,Total,Total,17639
+287,2704401,Major Isidoro,2010,População residente censitária,Total,Total,18897
+288,2704401,Major Isidoro,2022,População residente censitária,Total,Total,17700
+289,2704500,Maragogi,1970,População residente censitária,Total,Total,12764
+290,2704500,Maragogi,1980,População residente censitária,Total,Total,14953
+291,2704500,Maragogi,1991,População residente censitária,Total,Total,16403
+292,2704500,Maragogi,2000,População residente censitária,Total,Total,21832
+293,2704500,Maragogi,2010,População residente censitária,Total,Total,28749
+294,2704500,Maragogi,2022,População residente censitária,Total,Total,32174
+295,2704609,Maravilha,1970,População residente censitária,Total,Total,8222
+296,2704609,Maravilha,1980,População residente censitária,Total,Total,11832
+297,2704609,Maravilha,1991,População residente censitária,Total,Total,11380
+298,2704609,Maravilha,2000,População residente censitária,Total,Total,13687
+299,2704609,Maravilha,2010,População residente censitária,Total,Total,10284
+300,2704609,Maravilha,2022,População residente censitária,Total,Total,9534
+301,2704708,Marechal Deodoro,1970,População residente censitária,Total,Total,14724
+302,2704708,Marechal Deodoro,1980,População residente censitária,Total,Total,22695
+303,2704708,Marechal Deodoro,1991,População residente censitária,Total,Total,24810
+304,2704708,Marechal Deodoro,2000,População residente censitária,Total,Total,35866
+305,2704708,Marechal Deodoro,2010,População residente censitária,Total,Total,45977
+306,2704708,Marechal Deodoro,2022,População residente censitária,Total,Total,60370
+307,2704807,Maribondo,1970,População residente censitária,Total,Total,13961
+308,2704807,Maribondo,1980,População residente censitária,Total,Total,15041
+309,2704807,Maribondo,1991,População residente censitária,Total,Total,14966
+310,2704807,Maribondo,2000,População residente censitária,Total,Total,15145
+311,2704807,Maribondo,2010,População residente censitária,Total,Total,13619
+312,2704807,Maribondo,2022,População residente censitária,Total,Total,13679
+313,2704906,Mar Vermelho,1970,População residente censitária,Total,Total,4857
+314,2704906,Mar Vermelho,1980,População residente censitária,Total,Total,4163
+315,2704906,Mar Vermelho,1991,População residente censitária,Total,Total,3965
+316,2704906,Mar Vermelho,2000,População residente censitária,Total,Total,4078
+317,2704906,Mar Vermelho,2010,População residente censitária,Total,Total,3652
+318,2704906,Mar Vermelho,2022,População residente censitária,Total,Total,3155
+319,2705002,Mata Grande,1970,População residente censitária,Total,Total,20858
+320,2705002,Mata Grande,1980,População residente censitária,Total,Total,23478
+321,2705002,Mata Grande,1991,População residente censitária,Total,Total,26475
+322,2705002,Mata Grande,2000,População residente censitária,Total,Total,25032
+323,2705002,Mata Grande,2010,População residente censitária,Total,Total,24698
+324,2705002,Mata Grande,2022,População residente censitária,Total,Total,21844
+325,2705101,Matriz de Camaragibe,1970,População residente censitária,Total,Total,12720
+326,2705101,Matriz de Camaragibe,1980,População residente censitária,Total,Total,17131
+327,2705101,Matriz de Camaragibe,1991,População residente censitária,Total,Total,21146
+328,2705101,Matriz de Camaragibe,2000,População residente censitária,Total,Total,24017
+329,2705101,Matriz de Camaragibe,2010,População residente censitária,Total,Total,23785
+330,2705101,Matriz de Camaragibe,2022,População residente censitária,Total,Total,23857
+331,2705200,Messias,1970,População residente censitária,Total,Total,6216
+332,2705200,Messias,1980,População residente censitária,Total,Total,7467
+333,2705200,Messias,1991,População residente censitária,Total,Total,10564
+334,2705200,Messias,2000,População residente censitária,Total,Total,11990
+335,2705200,Messias,2010,População residente censitária,Total,Total,15682
+336,2705200,Messias,2022,População residente censitária,Total,Total,15405
+337,2705309,Minador do Negrão,1970,População residente censitária,Total,Total,7365
+338,2705309,Minador do Negrão,1980,População residente censitária,Total,Total,8246
+339,2705309,Minador do Negrão,1991,População residente censitária,Total,Total,9355
+340,2705309,Minador do Negrão,2000,População residente censitária,Total,Total,5399
+341,2705309,Minador do Negrão,2010,População residente censitária,Total,Total,5275
+342,2705309,Minador do Negrão,2022,População residente censitária,Total,Total,4845
+343,2705408,Monteirópolis,1970,População residente censitária,Total,Total,4721
+344,2705408,Monteirópolis,1980,População residente censitária,Total,Total,5420
+345,2705408,Monteirópolis,1991,População residente censitária,Total,Total,6140
+346,2705408,Monteirópolis,2000,População residente censitária,Total,Total,7240
+347,2705408,Monteirópolis,2010,População residente censitária,Total,Total,6935
+348,2705408,Monteirópolis,2022,População residente censitária,Total,Total,7184
+349,2705507,Murici,1970,População residente censitária,Total,Total,26599
+350,2705507,Murici,1980,População residente censitária,Total,Total,25855
+351,2705507,Murici,1991,População residente censitária,Total,Total,28724
+352,2705507,Murici,2000,População residente censitária,Total,Total,24671
+353,2705507,Murici,2010,População residente censitária,Total,Total,26710
+354,2705507,Murici,2022,População residente censitária,Total,Total,25187
+355,2705606,Novo Lino,1970,População residente censitária,Total,Total,13269
+356,2705606,Novo Lino,1980,População residente censitária,Total,Total,14660
+357,2705606,Novo Lino,1991,População residente censitária,Total,Total,14553
+358,2705606,Novo Lino,2000,População residente censitária,Total,Total,10375
+359,2705606,Novo Lino,2010,População residente censitária,Total,Total,12060
+360,2705606,Novo Lino,2022,População residente censitária,Total,Total,10024
+361,2705705,Olho d'Água das Flores,1970,População residente censitária,Total,Total,10707
+362,2705705,Olho d'Água das Flores,1980,População residente censitária,Total,Total,13922
+363,2705705,Olho d'Água das Flores,1991,População residente censitária,Total,Total,15653
+364,2705705,Olho d'Água das Flores,2000,População residente censitária,Total,Total,19417
+365,2705705,Olho d'Água das Flores,2010,População residente censitária,Total,Total,20364
+366,2705705,Olho d'Água das Flores,2022,População residente censitária,Total,Total,20695
+367,2705804,Olho d'Água do Casado,1970,População residente censitária,Total,Total,2614
+368,2705804,Olho d'Água do Casado,1980,População residente censitária,Total,Total,4079
+369,2705804,Olho d'Água do Casado,1991,População residente censitária,Total,Total,6414
+370,2705804,Olho d'Água do Casado,2000,População residente censitária,Total,Total,7059
+371,2705804,Olho d'Água do Casado,2010,População residente censitária,Total,Total,8491
+372,2705804,Olho d'Água do Casado,2022,População residente censitária,Total,Total,8349
+373,2705903,Olho d'Água Grande,1970,População residente censitária,Total,Total,4333
+374,2705903,Olho d'Água Grande,1980,População residente censitária,Total,Total,4620
+375,2705903,Olho d'Água Grande,1991,População residente censitária,Total,Total,4413
+376,2705903,Olho d'Água Grande,2000,População residente censitária,Total,Total,4847
+377,2705903,Olho d'Água Grande,2010,População residente censitária,Total,Total,4957
+378,2705903,Olho d'Água Grande,2022,População residente censitária,Total,Total,4330
+379,2706000,Olivença,1970,População residente censitária,Total,Total,8657
+380,2706000,Olivença,1980,População residente censitária,Total,Total,9523
+381,2706000,Olivença,1991,População residente censitária,Total,Total,10130
+382,2706000,Olivença,2000,População residente censitária,Total,Total,10369
+383,2706000,Olivença,2010,População residente censitária,Total,Total,11047
+384,2706000,Olivença,2022,População residente censitária,Total,Total,10812
+385,2706109,Ouro Branco,1970,População residente censitária,Total,Total,6171
+386,2706109,Ouro Branco,1980,População residente censitária,Total,Total,8768
+387,2706109,Ouro Branco,1991,População residente censitária,Total,Total,9346
+388,2706109,Ouro Branco,2000,População residente censitária,Total,Total,10077
+389,2706109,Ouro Branco,2010,População residente censitária,Total,Total,10912
+390,2706109,Ouro Branco,2022,População residente censitária,Total,Total,11446
+391,2706208,Palestina,1970,População residente censitária,Total,Total,2274
+392,2706208,Palestina,1980,População residente censitária,Total,Total,2490
+393,2706208,Palestina,1991,População residente censitária,Total,Total,3628
+394,2706208,Palestina,2000,População residente censitária,Total,Total,4523
+395,2706208,Palestina,2010,População residente censitária,Total,Total,5112
+396,2706208,Palestina,2022,População residente censitária,Total,Total,4325
+397,2706307,Palmeira dos Índios,1970,População residente censitária,Total,Total,61860
+398,2706307,Palmeira dos Índios,1980,População residente censitária,Total,Total,66930
+399,2706307,Palmeira dos Índios,1991,População residente censitária,Total,Total,77204
+400,2706307,Palmeira dos Índios,2000,População residente censitária,Total,Total,68060
+401,2706307,Palmeira dos Índios,2010,População residente censitária,Total,Total,70368
+402,2706307,Palmeira dos Índios,2022,População residente censitária,Total,Total,71574
+403,2706406,Pão de Açúcar,1970,População residente censitária,Total,Total,16721
+404,2706406,Pão de Açúcar,1980,População residente censitária,Total,Total,18936
+405,2706406,Pão de Açúcar,1991,População residente censitária,Total,Total,21506
+406,2706406,Pão de Açúcar,2000,População residente censitária,Total,Total,24351
+407,2706406,Pão de Açúcar,2010,População residente censitária,Total,Total,23811
+408,2706406,Pão de Açúcar,2022,População residente censitária,Total,Total,23823
+409,2706422,Pariconha,1970,População residente censitária,Total,Total,...
+410,2706422,Pariconha,1980,População residente censitária,Total,Total,...
+411,2706422,Pariconha,1991,População residente censitária,Total,Total,...
+412,2706422,Pariconha,2000,População residente censitária,Total,Total,10086
+413,2706422,Pariconha,2010,População residente censitária,Total,Total,10264
+414,2706422,Pariconha,2022,População residente censitária,Total,Total,10573
+415,2706448,Paripueira,1970,População residente censitária,Total,Total,...
+416,2706448,Paripueira,1980,População residente censitária,Total,Total,...
+417,2706448,Paripueira,1991,População residente censitária,Total,Total,...
+418,2706448,Paripueira,2000,População residente censitária,Total,Total,8049
+419,2706448,Paripueira,2010,População residente censitária,Total,Total,11347
+420,2706448,Paripueira,2022,População residente censitária,Total,Total,13835
+421,2706505,Passo de Camaragibe,1970,População residente censitária,Total,Total,7598
+422,2706505,Passo de Camaragibe,1980,População residente censitária,Total,Total,11326
+423,2706505,Passo de Camaragibe,1991,População residente censitária,Total,Total,14091
+424,2706505,Passo de Camaragibe,2000,População residente censitária,Total,Total,13755
+425,2706505,Passo de Camaragibe,2010,População residente censitária,Total,Total,14763
+426,2706505,Passo de Camaragibe,2022,População residente censitária,Total,Total,13804
+427,2706604,Paulo Jacinto,1970,População residente censitária,Total,Total,9311
+428,2706604,Paulo Jacinto,1980,População residente censitária,Total,Total,8173
+429,2706604,Paulo Jacinto,1991,População residente censitária,Total,Total,7117
+430,2706604,Paulo Jacinto,2000,População residente censitária,Total,Total,7485
+431,2706604,Paulo Jacinto,2010,População residente censitária,Total,Total,7426
+432,2706604,Paulo Jacinto,2022,População residente censitária,Total,Total,6576
+433,2706703,Penedo,1970,População residente censitária,Total,Total,33142
+434,2706703,Penedo,1980,População residente censitária,Total,Total,36658
+435,2706703,Penedo,1991,População residente censitária,Total,Total,52245
+436,2706703,Penedo,2000,População residente censitária,Total,Total,56993
+437,2706703,Penedo,2010,População residente censitária,Total,Total,60378
+438,2706703,Penedo,2022,População residente censitária,Total,Total,58647
+439,2706802,Piaçabuçu,1970,População residente censitária,Total,Total,10752
+440,2706802,Piaçabuçu,1980,População residente censitária,Total,Total,11543
+441,2706802,Piaçabuçu,1991,População residente censitária,Total,Total,16914
+442,2706802,Piaçabuçu,2000,População residente censitária,Total,Total,16775
+443,2706802,Piaçabuçu,2010,População residente censitária,Total,Total,17203
+444,2706802,Piaçabuçu,2022,População residente censitária,Total,Total,15897
+445,2706901,Pilar,1970,População residente censitária,Total,Total,17801
+446,2706901,Pilar,1980,População residente censitária,Total,Total,23896
+447,2706901,Pilar,1991,População residente censitária,Total,Total,29254
+448,2706901,Pilar,2000,População residente censitária,Total,Total,31201
+449,2706901,Pilar,2010,População residente censitária,Total,Total,33305
+450,2706901,Pilar,2022,População residente censitária,Total,Total,35370
+451,2707008,Pindoba,1970,População residente censitária,Total,Total,7772
+452,2707008,Pindoba,1980,População residente censitária,Total,Total,5215
+453,2707008,Pindoba,1991,População residente censitária,Total,Total,3748
+454,2707008,Pindoba,2000,População residente censitária,Total,Total,2926
+455,2707008,Pindoba,2010,População residente censitária,Total,Total,2866
+456,2707008,Pindoba,2022,População residente censitária,Total,Total,2731
+457,2707107,Piranhas,1970,População residente censitária,Total,Total,4567
+458,2707107,Piranhas,1980,População residente censitária,Total,Total,5949
+459,2707107,Piranhas,1991,População residente censitária,Total,Total,14458
+460,2707107,Piranhas,2000,População residente censitária,Total,Total,20007
+461,2707107,Piranhas,2010,População residente censitária,Total,Total,23045
+462,2707107,Piranhas,2022,População residente censitária,Total,Total,22609
+463,2707206,Poço das Trincheiras,1970,População residente censitária,Total,Total,10172
+464,2707206,Poço das Trincheiras,1980,População residente censitária,Total,Total,10671
+465,2707206,Poço das Trincheiras,1991,População residente censitária,Total,Total,11489
+466,2707206,Poço das Trincheiras,2000,População residente censitária,Total,Total,13222
+467,2707206,Poço das Trincheiras,2010,População residente censitária,Total,Total,13872
+468,2707206,Poço das Trincheiras,2022,População residente censitária,Total,Total,12518
+469,2707305,Porto Calvo,1970,População residente censitária,Total,Total,17654
+470,2707305,Porto Calvo,1980,População residente censitária,Total,Total,20496
+471,2707305,Porto Calvo,1991,População residente censitária,Total,Total,22658
+472,2707305,Porto Calvo,2000,População residente censitária,Total,Total,23951
+473,2707305,Porto Calvo,2010,População residente censitária,Total,Total,25708
+474,2707305,Porto Calvo,2022,População residente censitária,Total,Total,24071
+475,2707404,Porto de Pedras,1970,População residente censitária,Total,Total,8565
+476,2707404,Porto de Pedras,1980,População residente censitária,Total,Total,9841
+477,2707404,Porto de Pedras,1991,População residente censitária,Total,Total,9615
+478,2707404,Porto de Pedras,2000,População residente censitária,Total,Total,10238
+479,2707404,Porto de Pedras,2010,População residente censitária,Total,Total,8429
+480,2707404,Porto de Pedras,2022,População residente censitária,Total,Total,9295
+481,2707503,Porto Real do Colégio,1970,População residente censitária,Total,Total,12737
+482,2707503,Porto Real do Colégio,1980,População residente censitária,Total,Total,14389
+483,2707503,Porto Real do Colégio,1991,População residente censitária,Total,Total,17557
+484,2707503,Porto Real do Colégio,2000,População residente censitária,Total,Total,18355
+485,2707503,Porto Real do Colégio,2010,População residente censitária,Total,Total,19334
+486,2707503,Porto Real do Colégio,2022,População residente censitária,Total,Total,20079
+487,2707602,Quebrangulo,1970,População residente censitária,Total,Total,15168
+488,2707602,Quebrangulo,1980,População residente censitária,Total,Total,12645
+489,2707602,Quebrangulo,1991,População residente censitária,Total,Total,11402
+490,2707602,Quebrangulo,2000,População residente censitária,Total,Total,11902
+491,2707602,Quebrangulo,2010,População residente censitária,Total,Total,11480
+492,2707602,Quebrangulo,2022,População residente censitária,Total,Total,11080
+493,2707701,Rio Largo,1970,População residente censitária,Total,Total,37415
+494,2707701,Rio Largo,1980,População residente censitária,Total,Total,43445
+495,2707701,Rio Largo,1991,População residente censitária,Total,Total,53924
+496,2707701,Rio Largo,2000,População residente censitária,Total,Total,62510
+497,2707701,Rio Largo,2010,População residente censitária,Total,Total,68481
+498,2707701,Rio Largo,2022,População residente censitária,Total,Total,93927
+499,2707800,Roteiro,1970,População residente censitária,Total,Total,1635
+500,2707800,Roteiro,1980,População residente censitária,Total,Total,5171
+501,2707800,Roteiro,1991,População residente censitária,Total,Total,7445
+502,2707800,Roteiro,2000,População residente censitária,Total,Total,6985
+503,2707800,Roteiro,2010,População residente censitária,Total,Total,6656
+504,2707800,Roteiro,2022,População residente censitária,Total,Total,6474
+505,2707909,Santa Luzia do Norte,1970,População residente censitária,Total,Total,2377
+506,2707909,Santa Luzia do Norte,1980,População residente censitária,Total,Total,3319
+507,2707909,Santa Luzia do Norte,1991,População residente censitária,Total,Total,5796
+508,2707909,Santa Luzia do Norte,2000,População residente censitária,Total,Total,6388
+509,2707909,Santa Luzia do Norte,2010,População residente censitária,Total,Total,6891
+510,2707909,Santa Luzia do Norte,2022,População residente censitária,Total,Total,6919
+511,2708006,Santana do Ipanema,1970,População residente censitária,Total,Total,34225
+512,2708006,Santana do Ipanema,1980,População residente censitária,Total,Total,40372
+513,2708006,Santana do Ipanema,1991,População residente censitária,Total,Total,36088
+514,2708006,Santana do Ipanema,2000,População residente censitária,Total,Total,41485
+515,2708006,Santana do Ipanema,2010,População residente censitária,Total,Total,44932
+516,2708006,Santana do Ipanema,2022,População residente censitária,Total,Total,46220
+517,2708105,Santana do Mundaú,1970,População residente censitária,Total,Total,15096
+518,2708105,Santana do Mundaú,1980,População residente censitária,Total,Total,13580
+519,2708105,Santana do Mundaú,1991,População residente censitária,Total,Total,12012
+520,2708105,Santana do Mundaú,2000,População residente censitária,Total,Total,11534
+521,2708105,Santana do Mundaú,2010,População residente censitária,Total,Total,10961
+522,2708105,Santana do Mundaú,2022,População residente censitária,Total,Total,11323
+523,2708204,São Brás,1970,População residente censitária,Total,Total,6231
+524,2708204,São Brás,1980,População residente censitária,Total,Total,7380
+525,2708204,São Brás,1991,População residente censitária,Total,Total,6313
+526,2708204,São Brás,2000,População residente censitária,Total,Total,6551
+527,2708204,São Brás,2010,População residente censitária,Total,Total,6718
+528,2708204,São Brás,2022,População residente censitária,Total,Total,6555
+529,2708303,São José da Laje,1970,População residente censitária,Total,Total,26946
+530,2708303,São José da Laje,1980,População residente censitária,Total,Total,21959
+531,2708303,São José da Laje,1991,População residente censitária,Total,Total,21996
+532,2708303,São José da Laje,2000,População residente censitária,Total,Total,21071
+533,2708303,São José da Laje,2010,População residente censitária,Total,Total,22686
+534,2708303,São José da Laje,2022,População residente censitária,Total,Total,20813
+535,2708402,São José da Tapera,1970,População residente censitária,Total,Total,19757
+536,2708402,São José da Tapera,1980,População residente censitária,Total,Total,24790
+537,2708402,São José da Tapera,1991,População residente censitária,Total,Total,27413
+538,2708402,São José da Tapera,2000,População residente censitária,Total,Total,27562
+539,2708402,São José da Tapera,2010,População residente censitária,Total,Total,30088
+540,2708402,São José da Tapera,2022,População residente censitária,Total,Total,30604
+541,2708501,São Luís do Quitunde,1970,População residente censitária,Total,Total,16121
+542,2708501,São Luís do Quitunde,1980,População residente censitária,Total,Total,25860
+543,2708501,São Luís do Quitunde,1991,População residente censitária,Total,Total,31238
+544,2708501,São Luís do Quitunde,2000,População residente censitária,Total,Total,29543
+545,2708501,São Luís do Quitunde,2010,População residente censitária,Total,Total,32412
+546,2708501,São Luís do Quitunde,2022,População residente censitária,Total,Total,30873
+547,2708600,São Miguel dos Campos,1970,População residente censitária,Total,Total,29721
+548,2708600,São Miguel dos Campos,1980,População residente censitária,Total,Total,40708
+549,2708600,São Miguel dos Campos,1991,População residente censitária,Total,Total,50689
+550,2708600,São Miguel dos Campos,2000,População residente censitária,Total,Total,51456
+551,2708600,São Miguel dos Campos,2010,População residente censitária,Total,Total,54577
+552,2708600,São Miguel dos Campos,2022,População residente censitária,Total,Total,51990
+553,2708709,São Miguel dos Milagres,1970,População residente censitária,Total,Total,3995
+554,2708709,São Miguel dos Milagres,1980,População residente censitária,Total,Total,4809
+555,2708709,São Miguel dos Milagres,1991,População residente censitária,Total,Total,4897
+556,2708709,São Miguel dos Milagres,2000,População residente censitária,Total,Total,5860
+557,2708709,São Miguel dos Milagres,2010,População residente censitária,Total,Total,7163
+558,2708709,São Miguel dos Milagres,2022,População residente censitária,Total,Total,8482
+559,2708808,São Sebastião,1970,População residente censitária,Total,Total,11723
+560,2708808,São Sebastião,1980,População residente censitária,Total,Total,19764
+561,2708808,São Sebastião,1991,População residente censitária,Total,Total,24696
+562,2708808,São Sebastião,2000,População residente censitária,Total,Total,29124
+563,2708808,São Sebastião,2010,População residente censitária,Total,Total,32010
+564,2708808,São Sebastião,2022,População residente censitária,Total,Total,31786
+565,2708907,Satuba,1970,População residente censitária,Total,Total,5008
+566,2708907,Satuba,1980,População residente censitária,Total,Total,6228
+567,2708907,Satuba,1991,População residente censitária,Total,Total,9186
+568,2708907,Satuba,2000,População residente censitária,Total,Total,12555
+569,2708907,Satuba,2010,População residente censitária,Total,Total,14603
+570,2708907,Satuba,2022,População residente censitária,Total,Total,24278
+571,2708956,Senador Rui Palmeira,1970,População residente censitária,Total,Total,...
+572,2708956,Senador Rui Palmeira,1980,População residente censitária,Total,Total,...
+573,2708956,Senador Rui Palmeira,1991,População residente censitária,Total,Total,9413
+574,2708956,Senador Rui Palmeira,2000,População residente censitária,Total,Total,11979
+575,2708956,Senador Rui Palmeira,2010,População residente censitária,Total,Total,13047
+576,2708956,Senador Rui Palmeira,2022,População residente censitária,Total,Total,12302
+577,2709004,Tanque d'Arca,1970,População residente censitária,Total,Total,6056
+578,2709004,Tanque d'Arca,1980,População residente censitária,Total,Total,7483
+579,2709004,Tanque d'Arca,1991,População residente censitária,Total,Total,7715
+580,2709004,Tanque d'Arca,2000,População residente censitária,Total,Total,6594
+581,2709004,Tanque d'Arca,2010,População residente censitária,Total,Total,6122
+582,2709004,Tanque d'Arca,2022,População residente censitária,Total,Total,5796
+583,2709103,Taquarana,1970,População residente censitária,Total,Total,11761
+584,2709103,Taquarana,1980,População residente censitária,Total,Total,13189
+585,2709103,Taquarana,1991,População residente censitária,Total,Total,16809
+586,2709103,Taquarana,2000,População residente censitária,Total,Total,17046
+587,2709103,Taquarana,2010,População residente censitária,Total,Total,19020
+588,2709103,Taquarana,2022,População residente censitária,Total,Total,19032
+589,2709152,Teotônio Vilela,1970,População residente censitária,Total,Total,...
+590,2709152,Teotônio Vilela,1980,População residente censitária,Total,Total,...
+591,2709152,Teotônio Vilela,1991,População residente censitária,Total,Total,29664
+592,2709152,Teotônio Vilela,2000,População residente censitária,Total,Total,36881
+593,2709152,Teotônio Vilela,2010,População residente censitária,Total,Total,41152
+594,2709152,Teotônio Vilela,2022,População residente censitária,Total,Total,38053
+595,2709202,Traipu,1970,População residente censitária,Total,Total,15497
+596,2709202,Traipu,1980,População residente censitária,Total,Total,19272
+597,2709202,Traipu,1991,População residente censitária,Total,Total,22680
+598,2709202,Traipu,2000,População residente censitária,Total,Total,23439
+599,2709202,Traipu,2010,População residente censitária,Total,Total,25702
+600,2709202,Traipu,2022,População residente censitária,Total,Total,23565
+601,2709301,União dos Palmares,1970,População residente censitária,Total,Total,51532
+602,2709301,União dos Palmares,1980,População residente censitária,Total,Total,52702
+603,2709301,União dos Palmares,1991,População residente censitária,Total,Total,57425
+604,2709301,União dos Palmares,2000,População residente censitária,Total,Total,58620
+605,2709301,União dos Palmares,2010,População residente censitária,Total,Total,62358
+606,2709301,União dos Palmares,2022,População residente censitária,Total,Total,59280
+607,2709400,Viçosa,1970,População residente censitária,Total,Total,28734
+608,2709400,Viçosa,1980,População residente censitária,Total,Total,24658
+609,2709400,Viçosa,1991,População residente censitária,Total,Total,23571
+610,2709400,Viçosa,2000,População residente censitária,Total,Total,26263
+611,2709400,Viçosa,2010,População residente censitária,Total,Total,25407
+612,2709400,Viçosa,2022,População residente censitária,Total,Total,24092
